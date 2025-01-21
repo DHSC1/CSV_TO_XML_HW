@@ -21,9 +21,9 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install pandas lxml
-    - name: Convert CSV to XML
+    - name: Convert CSV to XML HW
       run: |
-        python csv_to_xml  # Zajistěte, že název souboru je správný
+        python CSV_TO_XML_HW  # Zajistěte, že název souboru je správný
     - name: Upload XML to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
