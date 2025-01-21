@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Načíst CSV data
-data = pd.read_csv('https://app.dotidot.io/data_feed_exports/4921.csv?token=614be287441e92ff')
+data = pd.read_csv('https://www.hurtowniaprzemyslowa.pl/xml/hurtowniaprzemyslowa_csv.csv')
 # Převést do XML
 xml_data = data.to_xml()
 
