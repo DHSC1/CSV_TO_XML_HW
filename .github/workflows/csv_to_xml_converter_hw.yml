@@ -3,7 +3,7 @@ name: CSV to XML Converter
 on:
   workflow_dispatch:
   schedule:
-    - cron: '* * * * *'  # Spouští každý 1 minutu (GitHub může spouštění zpožďovat)
+    - cron: '* * * * *'  # každý 1 minutu (s možným zpožděním na GitHubu)
 
 jobs:
   convert:
@@ -12,6 +12,12 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
+
+      - name: Show directory structure (pomocné, pro kontrolu)
+        run: |
+          pwd
+          ls -la
+          ls -R
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -25,13 +31,13 @@ jobs:
 
       - name: Convert CSV to XML HW
         run: |
-          # Upravte příkaz tak, aby odpovídal skutečnému názvu/cestě k vašemu Python skriptu.
-          # Pokud je to "CSV_TO_XML_HW.py", pak:
-          python CSV_TO_XML_HW.py
+          # Protože váš soubor nemá .py příponu,
+          # zavoláme ho takto:
+          python CSV_TO_XML_HW
 
       - name: Upload XML to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: './'
-          publish_branch: 'gh-pages'
+          publish_branch: gh-pages
