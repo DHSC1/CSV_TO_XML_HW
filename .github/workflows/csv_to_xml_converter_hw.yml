@@ -3,7 +3,7 @@ name: CSV to XML Converter
 on:
   workflow_dispatch:
   schedule:
-    - cron: '* * * * *'  # Spustí každých 10 minut
+    - cron: '* * * * *'
 
 jobs:
   convert:
