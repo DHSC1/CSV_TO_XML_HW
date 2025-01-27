@@ -100291,27 +100291,20 @@
   </row>
   <row>
     <index>14327</index>
-    <SKU>9009706</SKU>
-    <Kod_producenta>10030343</Kod_producenta>
-    <Kod_ean/>
-    <Termin_wysylki>24 godziny</Termin_wysylki>
-  </row>
-  <row>
-    <index>14328</index>
     <SKU>1026483</SKU>
     <Kod_producenta>E7254-1</Kod_producenta>
     <Kod_ean/>
     <Termin_wysylki>48 godzin</Termin_wysylki>
   </row>
   <row>
-    <index>14329</index>
+    <index>14328</index>
     <SKU>1026536</SKU>
     <Kod_producenta>TH-60-MIX</Kod_producenta>
     <Kod_ean>5902578456072.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
   </row>
   <row>
-    <index>14330</index>
+    <index>14329</index>
     <SKU>1026537</SKU>
     <Kod_producenta>7324</Kod_producenta>
     <Kod_ean>5902578456089.0</Kod_ean>
