@@ -2,28 +2,24 @@ import pandas as pd
 
 url = 'https://www.hurtowniaprzemyslowa.pl/xml/hurtowniaprzemyslowa_csv.csv'
 
-# Načtení CSV se středníkem, uvozovkami a tolerantnějším parserem
 data = pd.read_csv(
     url,
-    sep=';',        # CSV je oddělené středníkem
+    sep=';',        
     quotechar='"',  
     engine='python',
     on_bad_lines='skip'
 )
 
-# Sloupec index - abychom měli "index" přímo jako jednu z položek
 data.reset_index(inplace=True)
 
-# Vybereme pouze sloupce, které chceme mít v XML
-filtered = data[['index', 'SKU', 'Kod_producenta', 'Kod_ean', 'Termin_wysylki']]
+# Přidáno Ilosc_produktow do výběru sloupců
+filtered = data[['index', 'SKU', 'Kod_producenta', 'Kod_ean', 'Termin_wysylki', 'Ilosc_produktow']]
 
-# Převedeme do XML se zvolenými názvy kořenových a řádkových elementů
 xml_data = filtered.to_xml(
-    root_name='data',  # Kořenový element
-    row_name='row',    # Název elementu pro jednotlivé řádky
-    index=False        # Nebude generovat <index> z pandas indexu
+    root_name='data',
+    row_name='row',
+    index=False
 )
 
-# Zápis do souboru
 with open('data.xml', 'w', encoding='utf-8') as f:
     f.write(xml_data)
