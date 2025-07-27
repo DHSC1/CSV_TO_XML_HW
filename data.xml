@@ -22,7 +22,7 @@
     <Kod_producenta>10010010</Kod_producenta>
     <Kod_ean>4250928686947.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>338</Ilosc_produktow>
+    <Ilosc_produktow>337</Ilosc_produktow>
   </row>
   <row>
     <index>3</index>
@@ -30,7 +30,7 @@
     <Kod_producenta>10010021</Kod_producenta>
     <Kod_ean>4250928694973.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>435</Ilosc_produktow>
+    <Ilosc_produktow>430</Ilosc_produktow>
   </row>
   <row>
     <index>4</index>
@@ -54,7 +54,7 @@
     <Kod_producenta>10010056</Kod_producenta>
     <Kod_ean>4260223020285.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>929</Ilosc_produktow>
+    <Ilosc_produktow>928</Ilosc_produktow>
   </row>
   <row>
     <index>7</index>
@@ -110,7 +110,7 @@
     <Kod_producenta>10010079</Kod_producenta>
     <Kod_ean>4260223021213.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>589</Ilosc_produktow>
+    <Ilosc_produktow>588</Ilosc_produktow>
   </row>
   <row>
     <index>14</index>
@@ -126,7 +126,7 @@
     <Kod_producenta>10010083</Kod_producenta>
     <Kod_ean>4260223023187.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>350</Ilosc_produktow>
+    <Ilosc_produktow>349</Ilosc_produktow>
   </row>
   <row>
     <index>16</index>
@@ -134,7 +134,7 @@
     <Kod_producenta>10010084</Kod_producenta>
     <Kod_ean>4260223025013.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>50</Ilosc_produktow>
+    <Ilosc_produktow>49</Ilosc_produktow>
   </row>
   <row>
     <index>17</index>
@@ -150,7 +150,7 @@
     <Kod_producenta>10010086</Kod_producenta>
     <Kod_ean>4260223022555.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>12</Ilosc_produktow>
+    <Ilosc_produktow>11</Ilosc_produktow>
   </row>
   <row>
     <index>19</index>
@@ -206,7 +206,7 @@
     <Kod_producenta>10010130</Kod_producenta>
     <Kod_ean>4260223025396.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>63</Ilosc_produktow>
+    <Ilosc_produktow>62</Ilosc_produktow>
   </row>
   <row>
     <index>26</index>
@@ -422,7 +422,7 @@
     <Kod_producenta>10010274</Kod_producenta>
     <Kod_ean>4260223028984.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>513</Ilosc_produktow>
+    <Ilosc_produktow>510</Ilosc_produktow>
   </row>
   <row>
     <index>53</index>
@@ -622,7 +622,7 @@
     <Kod_producenta>10010318</Kod_producenta>
     <Kod_ean>4260223027697.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>161</Ilosc_produktow>
+    <Ilosc_produktow>159</Ilosc_produktow>
   </row>
   <row>
     <index>78</index>
@@ -718,7 +718,7 @@
     <Kod_producenta>10010496</Kod_producenta>
     <Kod_ean>4260223024818.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>100</Ilosc_produktow>
+    <Ilosc_produktow>99</Ilosc_produktow>
   </row>
   <row>
     <index>90</index>
@@ -982,7 +982,7 @@
     <Kod_producenta>10030084</Kod_producenta>
     <Kod_ean>4260223022845.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>47</Ilosc_produktow>
+    <Ilosc_produktow>46</Ilosc_produktow>
   </row>
   <row>
     <index>123</index>
@@ -1038,7 +1038,7 @@
     <Kod_producenta>10030107</Kod_producenta>
     <Kod_ean>4250928695079.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>10</Ilosc_produktow>
+    <Ilosc_produktow>9</Ilosc_produktow>
   </row>
   <row>
     <index>130</index>
@@ -1054,7 +1054,7 @@
     <Kod_producenta>10030111</Kod_producenta>
     <Kod_ean>4260223027383.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>113</Ilosc_produktow>
+    <Ilosc_produktow>112</Ilosc_produktow>
   </row>
   <row>
     <index>132</index>
@@ -1182,7 +1182,7 @@
     <Kod_producenta>10060013</Kod_producenta>
     <Kod_ean>4260223024719.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>87</Ilosc_produktow>
+    <Ilosc_produktow>86</Ilosc_produktow>
   </row>
   <row>
     <index>148</index>
@@ -1494,7 +1494,7 @@
     <Kod_producenta>10010225</Kod_producenta>
     <Kod_ean>4260223026102.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>11</Ilosc_produktow>
+    <Ilosc_produktow>10</Ilosc_produktow>
   </row>
   <row>
     <index>187</index>
@@ -1974,7 +1974,7 @@
     <Kod_producenta>19001655</Kod_producenta>
     <Kod_ean>4250928625526.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>58</Ilosc_produktow>
+    <Ilosc_produktow>57</Ilosc_produktow>
   </row>
   <row>
     <index>247</index>
@@ -2622,7 +2622,7 @@
     <Kod_producenta>194546</Kod_producenta>
     <Kod_ean>8711369194546.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>1885</Ilosc_produktow>
+    <Ilosc_produktow>1882</Ilosc_produktow>
   </row>
   <row>
     <index>328</index>
@@ -2638,7 +2638,7 @@
     <Kod_producenta>195109</Kod_producenta>
     <Kod_ean>8711369195109.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>5610</Ilosc_produktow>
+    <Ilosc_produktow>5609</Ilosc_produktow>
   </row>
   <row>
     <index>330</index>
@@ -2894,7 +2894,7 @@
     <Kod_producenta>270158</Kod_producenta>
     <Kod_ean>8711369270158.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>206</Ilosc_produktow>
+    <Ilosc_produktow>205</Ilosc_produktow>
   </row>
   <row>
     <index>362</index>
@@ -2950,7 +2950,7 @@
     <Kod_producenta>812204</Kod_producenta>
     <Kod_ean>8711369812204.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>465</Ilosc_produktow>
+    <Ilosc_produktow>464</Ilosc_produktow>
   </row>
   <row>
     <index>369</index>
@@ -3366,7 +3366,7 @@
     <Kod_producenta>975886</Kod_producenta>
     <Kod_ean>8711369975886.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>180</Ilosc_produktow>
+    <Ilosc_produktow>179</Ilosc_produktow>
   </row>
   <row>
     <index>421</index>
@@ -3398,7 +3398,7 @@
     <Kod_producenta>588215</Kod_producenta>
     <Kod_ean>8711369588215.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>3942</Ilosc_produktow>
+    <Ilosc_produktow>3941</Ilosc_produktow>
   </row>
   <row>
     <index>425</index>
@@ -3406,7 +3406,7 @@
     <Kod_producenta>586907</Kod_producenta>
     <Kod_ean>8711369586907.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>5345</Ilosc_produktow>
+    <Ilosc_produktow>5344</Ilosc_produktow>
   </row>
   <row>
     <index>426</index>
@@ -3678,7 +3678,7 @@
     <Kod_producenta>525630</Kod_producenta>
     <Kod_ean>5901157003713.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>308</Ilosc_produktow>
+    <Ilosc_produktow>306</Ilosc_produktow>
   </row>
   <row>
     <index>460</index>
@@ -3686,7 +3686,7 @@
     <Kod_producenta>617007</Kod_producenta>
     <Kod_ean>8711369617007.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>4979</Ilosc_produktow>
+    <Ilosc_produktow>4978</Ilosc_produktow>
   </row>
   <row>
     <index>461</index>
@@ -3702,7 +3702,7 @@
     <Kod_producenta>617816</Kod_producenta>
     <Kod_ean>8711369617816.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>702</Ilosc_produktow>
+    <Ilosc_produktow>701</Ilosc_produktow>
   </row>
   <row>
     <index>463</index>
@@ -3814,7 +3814,7 @@
     <Kod_producenta>239230</Kod_producenta>
     <Kod_ean>8711369239230.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>121</Ilosc_produktow>
+    <Ilosc_produktow>120</Ilosc_produktow>
   </row>
   <row>
     <index>477</index>
@@ -4150,7 +4150,7 @@
     <Kod_producenta>239506</Kod_producenta>
     <Kod_ean>8711369239506.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>346</Ilosc_produktow>
+    <Ilosc_produktow>345</Ilosc_produktow>
   </row>
   <row>
     <index>519</index>
@@ -4342,7 +4342,7 @@
     <Kod_producenta>271520</Kod_producenta>
     <Kod_ean>8711369271520.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>92</Ilosc_produktow>
+    <Ilosc_produktow>91</Ilosc_produktow>
   </row>
   <row>
     <index>543</index>
@@ -4350,7 +4350,7 @@
     <Kod_producenta>695708</Kod_producenta>
     <Kod_ean>8711369695708.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>538</Ilosc_produktow>
+    <Ilosc_produktow>537</Ilosc_produktow>
   </row>
   <row>
     <index>544</index>
@@ -4622,7 +4622,7 @@
     <Kod_producenta>B-MAX-SPRAY</Kod_producenta>
     <Kod_ean>5902578450063.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>495</Ilosc_produktow>
+    <Ilosc_produktow>494</Ilosc_produktow>
   </row>
   <row>
     <index>578</index>
@@ -4678,7 +4678,7 @@
     <Kod_producenta>10030137</Kod_producenta>
     <Kod_ean>4250928632838.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>42</Ilosc_produktow>
+    <Ilosc_produktow>41</Ilosc_produktow>
   </row>
   <row>
     <index>585</index>
@@ -4806,7 +4806,7 @@
     <Kod_producenta>19000317</Kod_producenta>
     <Kod_ean>4250928603753.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>192</Ilosc_produktow>
+    <Ilosc_produktow>191</Ilosc_produktow>
   </row>
   <row>
     <index>601</index>
@@ -4894,7 +4894,7 @@
     <Kod_producenta>10010359</Kod_producenta>
     <Kod_ean>4250928635440.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>12</Ilosc_produktow>
+    <Ilosc_produktow>11</Ilosc_produktow>
   </row>
   <row>
     <index>612</index>
@@ -4958,7 +4958,7 @@
     <Kod_producenta>10010369</Kod_producenta>
     <Kod_ean>4250928635549.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>14</Ilosc_produktow>
+    <Ilosc_produktow>13</Ilosc_produktow>
   </row>
   <row>
     <index>620</index>
@@ -5022,7 +5022,7 @@
     <Kod_producenta>10010570</Kod_producenta>
     <Kod_ean>4250928637093.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1134</Ilosc_produktow>
+    <Ilosc_produktow>1132</Ilosc_produktow>
   </row>
   <row>
     <index>628</index>
@@ -5254,7 +5254,7 @@
     <Kod_producenta>836309</Kod_producenta>
     <Kod_ean>8711369836309.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>255</Ilosc_produktow>
+    <Ilosc_produktow>254</Ilosc_produktow>
   </row>
   <row>
     <index>657</index>
@@ -5470,7 +5470,7 @@
     <Kod_producenta>835432</Kod_producenta>
     <Kod_ean>8711369835432.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>81</Ilosc_produktow>
+    <Ilosc_produktow>80</Ilosc_produktow>
   </row>
   <row>
     <index>684</index>
@@ -5486,7 +5486,7 @@
     <Kod_producenta>835630</Kod_producenta>
     <Kod_ean>8711369835630.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>240</Ilosc_produktow>
+    <Ilosc_produktow>239</Ilosc_produktow>
   </row>
   <row>
     <index>686</index>
@@ -5894,7 +5894,7 @@
     <Kod_producenta>622728</Kod_producenta>
     <Kod_ean>8711369622728.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>132</Ilosc_produktow>
+    <Ilosc_produktow>131</Ilosc_produktow>
   </row>
   <row>
     <index>737</index>
@@ -5902,7 +5902,7 @@
     <Kod_producenta>622735</Kod_producenta>
     <Kod_ean>8711369622735.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>301</Ilosc_produktow>
+    <Ilosc_produktow>295</Ilosc_produktow>
   </row>
   <row>
     <index>738</index>
@@ -5974,7 +5974,7 @@
     <Kod_producenta>629352</Kod_producenta>
     <Kod_ean>8711369629352.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>355</Ilosc_produktow>
+    <Ilosc_produktow>354</Ilosc_produktow>
   </row>
   <row>
     <index>747</index>
@@ -5982,7 +5982,7 @@
     <Kod_producenta>629390</Kod_producenta>
     <Kod_ean>8711369629390.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>653</Ilosc_produktow>
+    <Ilosc_produktow>651</Ilosc_produktow>
   </row>
   <row>
     <index>748</index>
@@ -6366,7 +6366,7 @@
     <Kod_producenta>800126</Kod_producenta>
     <Kod_ean>8711369800126.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>4785</Ilosc_produktow>
+    <Ilosc_produktow>4782</Ilosc_produktow>
   </row>
   <row>
     <index>796</index>
@@ -6446,7 +6446,7 @@
     <Kod_producenta>800331</Kod_producenta>
     <Kod_ean>8711369800331.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>1131</Ilosc_produktow>
+    <Ilosc_produktow>1127</Ilosc_produktow>
   </row>
   <row>
     <index>806</index>
@@ -7310,7 +7310,7 @@
     <Kod_producenta>801437</Kod_producenta>
     <Kod_ean>5907180521576.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>176</Ilosc_produktow>
+    <Ilosc_produktow>174</Ilosc_produktow>
   </row>
   <row>
     <index>914</index>
@@ -8126,7 +8126,7 @@
     <Kod_producenta>861714</Kod_producenta>
     <Kod_ean>8711369861714.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>89</Ilosc_produktow>
+    <Ilosc_produktow>84</Ilosc_produktow>
   </row>
   <row>
     <index>1016</index>
@@ -8310,7 +8310,7 @@
     <Kod_producenta>632802</Kod_producenta>
     <Kod_ean>8711369632802.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>572</Ilosc_produktow>
+    <Ilosc_produktow>571</Ilosc_produktow>
   </row>
   <row>
     <index>1039</index>
@@ -8638,7 +8638,7 @@
     <Kod_producenta>505007</Kod_producenta>
     <Kod_ean>8711369505007.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>115</Ilosc_produktow>
+    <Ilosc_produktow>113</Ilosc_produktow>
   </row>
   <row>
     <index>1080</index>
@@ -8654,7 +8654,7 @@
     <Kod_producenta>505205</Kod_producenta>
     <Kod_ean>8711369505205.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>111</Ilosc_produktow>
+    <Ilosc_produktow>110</Ilosc_produktow>
   </row>
   <row>
     <index>1082</index>
@@ -9046,7 +9046,7 @@
     <Kod_producenta>535202</Kod_producenta>
     <Kod_ean>8711369535202.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>276</Ilosc_produktow>
+    <Ilosc_produktow>275</Ilosc_produktow>
   </row>
   <row>
     <index>1131</index>
@@ -9278,7 +9278,7 @@
     <Kod_producenta>975770</Kod_producenta>
     <Kod_ean>8711369975770.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>630</Ilosc_produktow>
+    <Ilosc_produktow>629</Ilosc_produktow>
   </row>
   <row>
     <index>1160</index>
@@ -9638,7 +9638,7 @@
     <Kod_producenta>841112</Kod_producenta>
     <Kod_ean>8711369841112.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>393</Ilosc_produktow>
+    <Ilosc_produktow>392</Ilosc_produktow>
   </row>
   <row>
     <index>1205</index>
@@ -10230,7 +10230,7 @@
     <Kod_producenta>647561</Kod_producenta>
     <Kod_ean>8711369647561.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>64</Ilosc_produktow>
+    <Ilosc_produktow>63</Ilosc_produktow>
   </row>
   <row>
     <index>1279</index>
@@ -10406,7 +10406,7 @@
     <Kod_producenta>525005</Kod_producenta>
     <Kod_ean>8711369525005.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>1157</Ilosc_produktow>
+    <Ilosc_produktow>1156</Ilosc_produktow>
   </row>
   <row>
     <index>1301</index>
@@ -10614,7 +10614,7 @@
     <Kod_producenta>271155</Kod_producenta>
     <Kod_ean>8711369271155.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>2374</Ilosc_produktow>
+    <Ilosc_produktow>2364</Ilosc_produktow>
   </row>
   <row>
     <index>1327</index>
@@ -10918,7 +10918,7 @@
     <Kod_producenta>116PR064</Kod_producenta>
     <Kod_ean>5902578453682.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>27</Ilosc_produktow>
+    <Ilosc_produktow>26</Ilosc_produktow>
   </row>
   <row>
     <index>1365</index>
@@ -11230,7 +11230,7 @@
     <Kod_producenta>204825</Kod_producenta>
     <Kod_ean>8711369204825.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>609</Ilosc_produktow>
+    <Ilosc_produktow>608</Ilosc_produktow>
   </row>
   <row>
     <index>1404</index>
@@ -11374,7 +11374,7 @@
     <Kod_producenta>810910</Kod_producenta>
     <Kod_ean>8711369810910.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>16</Ilosc_produktow>
+    <Ilosc_produktow>15</Ilosc_produktow>
   </row>
   <row>
     <index>1422</index>
@@ -11550,7 +11550,7 @@
     <Kod_producenta>404102</Kod_producenta>
     <Kod_ean>8711369404102.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>818</Ilosc_produktow>
+    <Ilosc_produktow>816</Ilosc_produktow>
   </row>
   <row>
     <index>1444</index>
@@ -11558,7 +11558,7 @@
     <Kod_producenta>404201</Kod_producenta>
     <Kod_ean>8711369404201.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>480</Ilosc_produktow>
+    <Ilosc_produktow>479</Ilosc_produktow>
   </row>
   <row>
     <index>1445</index>
@@ -12574,7 +12574,7 @@
     <Kod_producenta>UKP09204</Kod_producenta>
     <Kod_ean>9006483001009.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>79</Ilosc_produktow>
+    <Ilosc_produktow>77</Ilosc_produktow>
   </row>
   <row>
     <index>1572</index>
@@ -13614,7 +13614,7 @@
     <Kod_producenta>231852</Kod_producenta>
     <Kod_ean>8711369231852.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>245</Ilosc_produktow>
+    <Ilosc_produktow>244</Ilosc_produktow>
   </row>
   <row>
     <index>1702</index>
@@ -14038,7 +14038,7 @@
     <Kod_producenta>1077-2</Kod_producenta>
     <Kod_ean>5902578452128.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1324</Ilosc_produktow>
+    <Ilosc_produktow>1325</Ilosc_produktow>
   </row>
   <row>
     <index>1755</index>
@@ -14062,7 +14062,7 @@
     <Kod_producenta>1077-6</Kod_producenta>
     <Kod_ean>5902578452159.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>124</Ilosc_produktow>
+    <Ilosc_produktow>125</Ilosc_produktow>
   </row>
   <row>
     <index>1758</index>
@@ -14198,7 +14198,7 @@
     <Kod_producenta>556603</Kod_producenta>
     <Kod_ean>8711369556603.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>8931</Ilosc_produktow>
+    <Ilosc_produktow>8930</Ilosc_produktow>
   </row>
   <row>
     <index>1775</index>
@@ -14358,7 +14358,7 @@
     <Kod_producenta>205808</Kod_producenta>
     <Kod_ean>8711369205808.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>439</Ilosc_produktow>
+    <Ilosc_produktow>438</Ilosc_produktow>
   </row>
   <row>
     <index>1795</index>
@@ -14366,7 +14366,7 @@
     <Kod_producenta>205815</Kod_producenta>
     <Kod_ean>8711369205815.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>702</Ilosc_produktow>
+    <Ilosc_produktow>701</Ilosc_produktow>
   </row>
   <row>
     <index>1796</index>
@@ -14374,7 +14374,7 @@
     <Kod_producenta>205822</Kod_producenta>
     <Kod_ean>8711369205822.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>817</Ilosc_produktow>
+    <Ilosc_produktow>811</Ilosc_produktow>
   </row>
   <row>
     <index>1797</index>
@@ -15630,7 +15630,7 @@
     <Kod_producenta>691342</Kod_producenta>
     <Kod_ean>8711369691342.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>116</Ilosc_produktow>
+    <Ilosc_produktow>115</Ilosc_produktow>
   </row>
   <row>
     <index>1954</index>
@@ -16110,7 +16110,7 @@
     <Kod_producenta>707906</Kod_producenta>
     <Kod_ean>8711369707906.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>3655</Ilosc_produktow>
+    <Ilosc_produktow>3652</Ilosc_produktow>
   </row>
   <row>
     <index>2014</index>
@@ -16134,7 +16134,7 @@
     <Kod_producenta>707968</Kod_producenta>
     <Kod_ean>8711369707968.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>140</Ilosc_produktow>
+    <Ilosc_produktow>139</Ilosc_produktow>
   </row>
   <row>
     <index>2017</index>
@@ -16614,7 +16614,7 @@
     <Kod_producenta>597965</Kod_producenta>
     <Kod_ean>8711369597965.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>28</Ilosc_produktow>
+    <Ilosc_produktow>27</Ilosc_produktow>
   </row>
   <row>
     <index>2077</index>
@@ -16702,7 +16702,7 @@
     <Kod_producenta>781449</Kod_producenta>
     <Kod_ean>8711369781449.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>85</Ilosc_produktow>
+    <Ilosc_produktow>84</Ilosc_produktow>
   </row>
   <row>
     <index>2088</index>
@@ -16902,7 +16902,7 @@
     <Kod_producenta>199039</Kod_producenta>
     <Kod_ean>8711369199039.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>2682</Ilosc_produktow>
+    <Ilosc_produktow>2681</Ilosc_produktow>
   </row>
   <row>
     <index>2113</index>
@@ -18614,7 +18614,7 @@
     <Kod_producenta>441107</Kod_producenta>
     <Kod_ean>8711369441107.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>1464</Ilosc_produktow>
+    <Ilosc_produktow>1444</Ilosc_produktow>
   </row>
   <row>
     <index>2327</index>
@@ -18902,7 +18902,7 @@
     <Kod_producenta>664049</Kod_producenta>
     <Kod_ean>8711369664049.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>32</Ilosc_produktow>
+    <Ilosc_produktow>31</Ilosc_produktow>
   </row>
   <row>
     <index>2363</index>
@@ -18942,7 +18942,7 @@
     <Kod_producenta>663660</Kod_producenta>
     <Kod_ean>8711369663660.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>460</Ilosc_produktow>
+    <Ilosc_produktow>457</Ilosc_produktow>
   </row>
   <row>
     <index>2368</index>
@@ -19534,7 +19534,7 @@
     <Kod_producenta>465363</Kod_producenta>
     <Kod_ean>8711369465363.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>297</Ilosc_produktow>
+    <Ilosc_produktow>282</Ilosc_produktow>
   </row>
   <row>
     <index>2442</index>
@@ -19566,7 +19566,7 @@
     <Kod_producenta>10010567</Kod_producenta>
     <Kod_ean>4250928639189.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>34</Ilosc_produktow>
+    <Ilosc_produktow>33</Ilosc_produktow>
   </row>
   <row>
     <index>2446</index>
@@ -19726,7 +19726,7 @@
     <Kod_producenta>10040125</Kod_producenta>
     <Kod_ean>4250928635280.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>610</Ilosc_produktow>
+    <Ilosc_produktow>609</Ilosc_produktow>
   </row>
   <row>
     <index>2466</index>
@@ -19750,7 +19750,7 @@
     <Kod_producenta>10050053</Kod_producenta>
     <Kod_ean>4250928695222.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>10</Ilosc_produktow>
+    <Ilosc_produktow>8</Ilosc_produktow>
   </row>
   <row>
     <index>2469</index>
@@ -19814,7 +19814,7 @@
     <Kod_producenta>10010536</Kod_producenta>
     <Kod_ean>4250928640901.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>448</Ilosc_produktow>
+    <Ilosc_produktow>447</Ilosc_produktow>
   </row>
   <row>
     <index>2477</index>
@@ -21062,7 +21062,7 @@
     <Kod_producenta>10040050</Kod_producenta>
     <Kod_ean>4250928635105.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>65</Ilosc_produktow>
+    <Ilosc_produktow>59</Ilosc_produktow>
   </row>
   <row>
     <index>2633</index>
@@ -21174,7 +21174,7 @@
     <Kod_producenta>10060317</Kod_producenta>
     <Kod_ean>4250928638540.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>169</Ilosc_produktow>
+    <Ilosc_produktow>166</Ilosc_produktow>
   </row>
   <row>
     <index>2647</index>
@@ -21294,7 +21294,7 @@
     <Kod_producenta>10010379</Kod_producenta>
     <Kod_ean>4250928646873.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>32</Ilosc_produktow>
+    <Ilosc_produktow>29</Ilosc_produktow>
   </row>
   <row>
     <index>2662</index>
@@ -21318,7 +21318,7 @@
     <Kod_producenta>10010394</Kod_producenta>
     <Kod_ean>4250928643957.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>160</Ilosc_produktow>
+    <Ilosc_produktow>159</Ilosc_produktow>
   </row>
   <row>
     <index>2665</index>
@@ -21382,7 +21382,7 @@
     <Kod_producenta>10010420</Kod_producenta>
     <Kod_ean>4250928647122.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>899</Ilosc_produktow>
+    <Ilosc_produktow>898</Ilosc_produktow>
   </row>
   <row>
     <index>2673</index>
@@ -21510,7 +21510,7 @@
     <Kod_producenta>10060278</Kod_producenta>
     <Kod_ean>4250928642769.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>260</Ilosc_produktow>
+    <Ilosc_produktow>257</Ilosc_produktow>
   </row>
   <row>
     <index>2689</index>
@@ -21550,7 +21550,7 @@
     <Kod_producenta>10010761</Kod_producenta>
     <Kod_ean>4250928692023.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>242</Ilosc_produktow>
+    <Ilosc_produktow>241</Ilosc_produktow>
   </row>
   <row>
     <index>2694</index>
@@ -21606,7 +21606,7 @@
     <Kod_producenta>10010595</Kod_producenta>
     <Kod_ean>4250928653178.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>209</Ilosc_produktow>
+    <Ilosc_produktow>208</Ilosc_produktow>
   </row>
   <row>
     <index>2701</index>
@@ -21646,7 +21646,7 @@
     <Kod_producenta>10050105</Kod_producenta>
     <Kod_ean>4250928652102.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>20</Ilosc_produktow>
+    <Ilosc_produktow>19</Ilosc_produktow>
   </row>
   <row>
     <index>2706</index>
@@ -21662,7 +21662,7 @@
     <Kod_producenta>10040066</Kod_producenta>
     <Kod_ean>4250928684080.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>267</Ilosc_produktow>
+    <Ilosc_produktow>266</Ilosc_produktow>
   </row>
   <row>
     <index>2708</index>
@@ -21798,7 +21798,7 @@
     <Kod_producenta>3013</Kod_producenta>
     <Kod_ean>5902578454313.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>201</Ilosc_produktow>
+    <Ilosc_produktow>199</Ilosc_produktow>
   </row>
   <row>
     <index>2725</index>
@@ -21822,7 +21822,7 @@
     <Kod_producenta>1076-6</Kod_producenta>
     <Kod_ean>5902578452333.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>596</Ilosc_produktow>
+    <Ilosc_produktow>600</Ilosc_produktow>
   </row>
   <row>
     <index>2728</index>
@@ -22334,7 +22334,7 @@
     <Kod_producenta>UKP17001</Kod_producenta>
     <Kod_ean>6959291001514.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>31</Ilosc_produktow>
+    <Ilosc_produktow>30</Ilosc_produktow>
   </row>
   <row>
     <index>2792</index>
@@ -23294,7 +23294,7 @@
     <Kod_producenta>229026</Kod_producenta>
     <Kod_ean>8711369229026.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>13</Ilosc_produktow>
+    <Ilosc_produktow>12</Ilosc_produktow>
   </row>
   <row>
     <index>2912</index>
@@ -23694,7 +23694,7 @@
     <Kod_producenta>567616</Kod_producenta>
     <Kod_ean>8711369567616.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>230</Ilosc_produktow>
+    <Ilosc_produktow>229</Ilosc_produktow>
   </row>
   <row>
     <index>2962</index>
@@ -24502,7 +24502,7 @@
     <Kod_producenta>224052</Kod_producenta>
     <Kod_ean>8711369224052.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>32</Ilosc_produktow>
+    <Ilosc_produktow>31</Ilosc_produktow>
   </row>
   <row>
     <index>3063</index>
@@ -25294,7 +25294,7 @@
     <Kod_producenta>10010594</Kod_producenta>
     <Kod_ean>4250928650436.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>57</Ilosc_produktow>
+    <Ilosc_produktow>56</Ilosc_produktow>
   </row>
   <row>
     <index>3162</index>
@@ -25342,7 +25342,7 @@
     <Kod_producenta>10011018</Kod_producenta>
     <Kod_ean>4250928690401.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>57</Ilosc_produktow>
+    <Ilosc_produktow>56</Ilosc_produktow>
   </row>
   <row>
     <index>3168</index>
@@ -25374,7 +25374,7 @@
     <Kod_producenta>10040151</Kod_producenta>
     <Kod_ean>4250928648211.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>42</Ilosc_produktow>
+    <Ilosc_produktow>41</Ilosc_produktow>
   </row>
   <row>
     <index>3172</index>
@@ -25462,7 +25462,7 @@
     <Kod_producenta>5903292666334</Kod_producenta>
     <Kod_ean>5902578452388.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>85</Ilosc_produktow>
+    <Ilosc_produktow>84</Ilosc_produktow>
   </row>
   <row>
     <index>3183</index>
@@ -25678,7 +25678,7 @@
     <Kod_producenta>10011070</Kod_producenta>
     <Kod_ean>4250928691262.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>146</Ilosc_produktow>
+    <Ilosc_produktow>145</Ilosc_produktow>
   </row>
   <row>
     <index>3210</index>
@@ -25742,7 +25742,7 @@
     <Kod_producenta>10011094</Kod_producenta>
     <Kod_ean>4250928691897.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>141</Ilosc_produktow>
+    <Ilosc_produktow>140</Ilosc_produktow>
   </row>
   <row>
     <index>3218</index>
@@ -25886,7 +25886,7 @@
     <Kod_producenta>10130001</Kod_producenta>
     <Kod_ean>4250928648709.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>257</Ilosc_produktow>
+    <Ilosc_produktow>256</Ilosc_produktow>
   </row>
   <row>
     <index>3236</index>
@@ -25902,7 +25902,7 @@
     <Kod_producenta>10130003</Kod_producenta>
     <Kod_ean>4250928648723.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>61</Ilosc_produktow>
+    <Ilosc_produktow>59</Ilosc_produktow>
   </row>
   <row>
     <index>3238</index>
@@ -25974,7 +25974,7 @@
     <Kod_producenta>CUK-ZIE-1KG</Kod_producenta>
     <Kod_ean>5902578450445.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>40</Ilosc_produktow>
+    <Ilosc_produktow>39</Ilosc_produktow>
   </row>
   <row>
     <index>3247</index>
@@ -26022,7 +26022,7 @@
     <Kod_producenta>K-POPC-DUZY</Kod_producenta>
     <Kod_ean>5902578450650.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>63</Ilosc_produktow>
+    <Ilosc_produktow>60</Ilosc_produktow>
   </row>
   <row>
     <index>3253</index>
@@ -26118,7 +26118,7 @@
     <Kod_producenta>10010729</Kod_producenta>
     <Kod_ean>4250928693297.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>70</Ilosc_produktow>
+    <Ilosc_produktow>69</Ilosc_produktow>
   </row>
   <row>
     <index>3265</index>
@@ -26382,7 +26382,7 @@
     <Kod_producenta>10011019</Kod_producenta>
     <Kod_ean>4250928690463.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>52</Ilosc_produktow>
+    <Ilosc_produktow>51</Ilosc_produktow>
   </row>
   <row>
     <index>3298</index>
@@ -26462,7 +26462,7 @@
     <Kod_producenta>10011086</Kod_producenta>
     <Kod_ean>4250928691514.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>100</Ilosc_produktow>
+    <Ilosc_produktow>99</Ilosc_produktow>
   </row>
   <row>
     <index>3308</index>
@@ -26534,7 +26534,7 @@
     <Kod_producenta>10020611</Kod_producenta>
     <Kod_ean>4250928691590.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>21</Ilosc_produktow>
+    <Ilosc_produktow>20</Ilosc_produktow>
   </row>
   <row>
     <index>3317</index>
@@ -26550,7 +26550,7 @@
     <Kod_producenta>10030312</Kod_producenta>
     <Kod_ean>4250928688712.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>128</Ilosc_produktow>
+    <Ilosc_produktow>127</Ilosc_produktow>
   </row>
   <row>
     <index>3319</index>
@@ -26582,7 +26582,7 @@
     <Kod_producenta>10030316</Kod_producenta>
     <Kod_ean>4250928688750.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>99</Ilosc_produktow>
+    <Ilosc_produktow>98</Ilosc_produktow>
   </row>
   <row>
     <index>3323</index>
@@ -26598,7 +26598,7 @@
     <Kod_producenta>10030337</Kod_producenta>
     <Kod_ean>4250928690104.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>373</Ilosc_produktow>
+    <Ilosc_produktow>372</Ilosc_produktow>
   </row>
   <row>
     <index>3325</index>
@@ -26638,7 +26638,7 @@
     <Kod_producenta>10060171</Kod_producenta>
     <Kod_ean>4250928684370.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>266</Ilosc_produktow>
+    <Ilosc_produktow>264</Ilosc_produktow>
   </row>
   <row>
     <index>3330</index>
@@ -26646,7 +26646,7 @@
     <Kod_producenta>10060172</Kod_producenta>
     <Kod_ean>4250928684387.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>71</Ilosc_produktow>
+    <Ilosc_produktow>70</Ilosc_produktow>
   </row>
   <row>
     <index>3331</index>
@@ -26654,7 +26654,7 @@
     <Kod_producenta>10060173</Kod_producenta>
     <Kod_ean>4250928684394.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>27</Ilosc_produktow>
+    <Ilosc_produktow>26</Ilosc_produktow>
   </row>
   <row>
     <index>3332</index>
@@ -26694,7 +26694,7 @@
     <Kod_producenta>10060178</Kod_producenta>
     <Kod_ean>4250928685117.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>27</Ilosc_produktow>
+    <Ilosc_produktow>26</Ilosc_produktow>
   </row>
   <row>
     <index>3337</index>
@@ -26702,7 +26702,7 @@
     <Kod_producenta>10060179</Kod_producenta>
     <Kod_ean>4250928685339.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>158</Ilosc_produktow>
+    <Ilosc_produktow>157</Ilosc_produktow>
   </row>
   <row>
     <index>3338</index>
@@ -26918,7 +26918,7 @@
     <Kod_producenta>1009194</Kod_producenta>
     <Kod_ean>5902578450766.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>48</Ilosc_produktow>
+    <Ilosc_produktow>47</Ilosc_produktow>
   </row>
   <row>
     <index>3365</index>
@@ -27054,7 +27054,7 @@
     <Kod_producenta>10010296</Kod_producenta>
     <Kod_ean>4250928686022.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>177</Ilosc_produktow>
+    <Ilosc_produktow>176</Ilosc_produktow>
   </row>
   <row>
     <index>3382</index>
@@ -27214,7 +27214,7 @@
     <Kod_producenta>10011073</Kod_producenta>
     <Kod_ean>4250928691231.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>114</Ilosc_produktow>
+    <Ilosc_produktow>113</Ilosc_produktow>
   </row>
   <row>
     <index>3402</index>
@@ -27230,7 +27230,7 @@
     <Kod_producenta>10011075</Kod_producenta>
     <Kod_ean>4250928691217.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>33</Ilosc_produktow>
+    <Ilosc_produktow>32</Ilosc_produktow>
   </row>
   <row>
     <index>3404</index>
@@ -27246,7 +27246,7 @@
     <Kod_producenta>10011077</Kod_producenta>
     <Kod_ean>4250928691194.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>269</Ilosc_produktow>
+    <Ilosc_produktow>267</Ilosc_produktow>
   </row>
   <row>
     <index>3406</index>
@@ -27302,7 +27302,7 @@
     <Kod_producenta>10011141</Kod_producenta>
     <Kod_ean>4250928698780.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>391</Ilosc_produktow>
+    <Ilosc_produktow>387</Ilosc_produktow>
   </row>
   <row>
     <index>3413</index>
@@ -27326,7 +27326,7 @@
     <Kod_producenta>10011144</Kod_producenta>
     <Kod_ean>4250928698810.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>72</Ilosc_produktow>
+    <Ilosc_produktow>71</Ilosc_produktow>
   </row>
   <row>
     <index>3416</index>
@@ -27342,7 +27342,7 @@
     <Kod_producenta>10011146</Kod_producenta>
     <Kod_ean>4250928698834.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>403</Ilosc_produktow>
+    <Ilosc_produktow>400</Ilosc_produktow>
   </row>
   <row>
     <index>3418</index>
@@ -27462,7 +27462,7 @@
     <Kod_producenta>10060180</Kod_producenta>
     <Kod_ean>4250928687692.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>219</Ilosc_produktow>
+    <Ilosc_produktow>218</Ilosc_produktow>
   </row>
   <row>
     <index>3433</index>
@@ -27502,7 +27502,7 @@
     <Kod_producenta>10060187</Kod_producenta>
     <Kod_ean>4250928687623.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>259</Ilosc_produktow>
+    <Ilosc_produktow>258</Ilosc_produktow>
   </row>
   <row>
     <index>3438</index>
@@ -27686,7 +27686,7 @@
     <Kod_producenta>10060660</Kod_producenta>
     <Kod_ean>4250928687586.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>92</Ilosc_produktow>
+    <Ilosc_produktow>90</Ilosc_produktow>
   </row>
   <row>
     <index>3461</index>
@@ -27710,7 +27710,7 @@
     <Kod_producenta>10060665</Kod_producenta>
     <Kod_ean>4250928687531.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>129</Ilosc_produktow>
+    <Ilosc_produktow>128</Ilosc_produktow>
   </row>
   <row>
     <index>3464</index>
@@ -27790,7 +27790,7 @@
     <Kod_producenta>10060892</Kod_producenta>
     <Kod_ean>4250928695642.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>48</Ilosc_produktow>
+    <Ilosc_produktow>47</Ilosc_produktow>
   </row>
   <row>
     <index>3474</index>
@@ -27958,7 +27958,7 @@
     <Kod_producenta>10050118</Kod_producenta>
     <Kod_ean>4250928683977.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>625</Ilosc_produktow>
+    <Ilosc_produktow>624</Ilosc_produktow>
   </row>
   <row>
     <index>3495</index>
@@ -28062,7 +28062,7 @@
     <Kod_producenta>5903292666334</Kod_producenta>
     <Kod_ean>5902578452470.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>53</Ilosc_produktow>
+    <Ilosc_produktow>52</Ilosc_produktow>
   </row>
   <row>
     <index>3508</index>
@@ -28086,7 +28086,7 @@
     <Kod_producenta>10011226</Kod_producenta>
     <Kod_ean>4250928698308.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>128</Ilosc_produktow>
+    <Ilosc_produktow>126</Ilosc_produktow>
   </row>
   <row>
     <index>3511</index>
@@ -28166,7 +28166,7 @@
     <Kod_producenta>10030324</Kod_producenta>
     <Kod_ean>4250928689894.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>97</Ilosc_produktow>
+    <Ilosc_produktow>95</Ilosc_produktow>
   </row>
   <row>
     <index>3521</index>
@@ -28214,7 +28214,7 @@
     <Kod_producenta>10030330</Kod_producenta>
     <Kod_ean>4250928689955.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>137</Ilosc_produktow>
+    <Ilosc_produktow>136</Ilosc_produktow>
   </row>
   <row>
     <index>3527</index>
@@ -28262,7 +28262,7 @@
     <Kod_producenta>10030359</Kod_producenta>
     <Kod_ean>4250928681980.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>273</Ilosc_produktow>
+    <Ilosc_produktow>272</Ilosc_produktow>
   </row>
   <row>
     <index>3533</index>
@@ -28318,7 +28318,7 @@
     <Kod_producenta>10030369</Kod_producenta>
     <Kod_ean>4250928683175.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>302</Ilosc_produktow>
+    <Ilosc_produktow>299</Ilosc_produktow>
   </row>
   <row>
     <index>3540</index>
@@ -28326,7 +28326,7 @@
     <Kod_producenta>10030370</Kod_producenta>
     <Kod_ean>4250928683182.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>210</Ilosc_produktow>
+    <Ilosc_produktow>209</Ilosc_produktow>
   </row>
   <row>
     <index>3541</index>
@@ -28334,7 +28334,7 @@
     <Kod_producenta>10030371</Kod_producenta>
     <Kod_ean>4250928683199.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>309</Ilosc_produktow>
+    <Ilosc_produktow>308</Ilosc_produktow>
   </row>
   <row>
     <index>3542</index>
@@ -28342,7 +28342,7 @@
     <Kod_producenta>10030372</Kod_producenta>
     <Kod_ean>4250928682284.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>36</Ilosc_produktow>
+    <Ilosc_produktow>35</Ilosc_produktow>
   </row>
   <row>
     <index>3543</index>
@@ -28390,7 +28390,7 @@
     <Kod_producenta>10030378</Kod_producenta>
     <Kod_ean>4250928682345.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>135</Ilosc_produktow>
+    <Ilosc_produktow>134</Ilosc_produktow>
   </row>
   <row>
     <index>3549</index>
@@ -28510,7 +28510,7 @@
     <Kod_producenta>10060930</Kod_producenta>
     <Kod_ean>4250928698995.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>162</Ilosc_produktow>
+    <Ilosc_produktow>161</Ilosc_produktow>
   </row>
   <row>
     <index>3564</index>
@@ -28558,7 +28558,7 @@
     <Kod_producenta>10060937</Kod_producenta>
     <Kod_ean>4250928699060.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>50</Ilosc_produktow>
+    <Ilosc_produktow>49</Ilosc_produktow>
   </row>
   <row>
     <index>3570</index>
@@ -28582,7 +28582,7 @@
     <Kod_producenta>U4224</Kod_producenta>
     <Kod_ean>8590584422401.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>104</Ilosc_produktow>
+    <Ilosc_produktow>103</Ilosc_produktow>
   </row>
   <row>
     <index>3573</index>
@@ -29574,7 +29574,7 @@
     <Kod_producenta>171875</Kod_producenta>
     <Kod_ean>8711369171875.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>1569</Ilosc_produktow>
+    <Ilosc_produktow>1565</Ilosc_produktow>
   </row>
   <row>
     <index>3697</index>
@@ -29654,7 +29654,7 @@
     <Kod_producenta>580233</Kod_producenta>
     <Kod_ean>8711369580233.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>1093</Ilosc_produktow>
+    <Ilosc_produktow>1092</Ilosc_produktow>
   </row>
   <row>
     <index>3707</index>
@@ -30598,7 +30598,7 @@
     <Kod_producenta>774885</Kod_producenta>
     <Kod_ean>8711369774885.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>1575</Ilosc_produktow>
+    <Ilosc_produktow>1571</Ilosc_produktow>
   </row>
   <row>
     <index>3825</index>
@@ -30830,7 +30830,7 @@
     <Kod_producenta>233917</Kod_producenta>
     <Kod_ean>8711369233917.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>83</Ilosc_produktow>
+    <Ilosc_produktow>82</Ilosc_produktow>
   </row>
   <row>
     <index>3854</index>
@@ -31318,7 +31318,7 @@
     <Kod_producenta>679036</Kod_producenta>
     <Kod_ean>8711369679036.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>393</Ilosc_produktow>
+    <Ilosc_produktow>392</Ilosc_produktow>
   </row>
   <row>
     <index>3915</index>
@@ -32326,7 +32326,7 @@
     <Kod_producenta>1010637</Kod_producenta>
     <Kod_ean>5902578452883.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>151</Ilosc_produktow>
+    <Ilosc_produktow>150</Ilosc_produktow>
   </row>
   <row>
     <index>4041</index>
@@ -32478,7 +32478,7 @@
     <Kod_producenta>1010671</Kod_producenta>
     <Kod_ean>5902578453019.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>223</Ilosc_produktow>
+    <Ilosc_produktow>222</Ilosc_produktow>
   </row>
   <row>
     <index>4060</index>
@@ -32518,7 +32518,7 @@
     <Kod_producenta>10030404</Kod_producenta>
     <Kod_ean>4250928670380.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>12</Ilosc_produktow>
+    <Ilosc_produktow>11</Ilosc_produktow>
   </row>
   <row>
     <index>4065</index>
@@ -32742,7 +32742,7 @@
     <Kod_producenta>10011214</Kod_producenta>
     <Kod_ean>4250928698049.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>131</Ilosc_produktow>
+    <Ilosc_produktow>130</Ilosc_produktow>
   </row>
   <row>
     <index>4093</index>
@@ -32822,7 +32822,7 @@
     <Kod_producenta>10011524</Kod_producenta>
     <Kod_ean>4062859973856.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>26</Ilosc_produktow>
+    <Ilosc_produktow>25</Ilosc_produktow>
   </row>
   <row>
     <index>4103</index>
@@ -32982,7 +32982,7 @@
     <Kod_producenta>10030467</Kod_producenta>
     <Kod_ean>4062859994318.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>95</Ilosc_produktow>
+    <Ilosc_produktow>93</Ilosc_produktow>
   </row>
   <row>
     <index>4123</index>
@@ -33006,7 +33006,7 @@
     <Kod_producenta>10030472</Kod_producenta>
     <Kod_ean>4062859994363.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>185</Ilosc_produktow>
+    <Ilosc_produktow>184</Ilosc_produktow>
   </row>
   <row>
     <index>4126</index>
@@ -33142,7 +33142,7 @@
     <Kod_producenta>10090149</Kod_producenta>
     <Kod_ean>4062859972453.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>47</Ilosc_produktow>
+    <Ilosc_produktow>46</Ilosc_produktow>
   </row>
   <row>
     <index>4143</index>
@@ -33174,7 +33174,7 @@
     <Kod_producenta>10090154</Kod_producenta>
     <Kod_ean>4062859972392.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>285</Ilosc_produktow>
+    <Ilosc_produktow>284</Ilosc_produktow>
   </row>
   <row>
     <index>4147</index>
@@ -33246,7 +33246,7 @@
     <Kod_producenta>10250028</Kod_producenta>
     <Kod_ean>4250928671783.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>23</Ilosc_produktow>
+    <Ilosc_produktow>22</Ilosc_produktow>
   </row>
   <row>
     <index>4156</index>
@@ -33366,7 +33366,7 @@
     <Kod_producenta>10011583</Kod_producenta>
     <Kod_ean>4062859953643.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>267</Ilosc_produktow>
+    <Ilosc_produktow>266</Ilosc_produktow>
   </row>
   <row>
     <index>4171</index>
@@ -33398,7 +33398,7 @@
     <Kod_producenta>10011617</Kod_producenta>
     <Kod_ean>4062859956408.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>291</Ilosc_produktow>
+    <Ilosc_produktow>289</Ilosc_produktow>
   </row>
   <row>
     <index>4175</index>
@@ -33438,7 +33438,7 @@
     <Kod_producenta>10011700</Kod_producenta>
     <Kod_ean>4062859000491.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>208</Ilosc_produktow>
+    <Ilosc_produktow>206</Ilosc_produktow>
   </row>
   <row>
     <index>4180</index>
@@ -33446,7 +33446,7 @@
     <Kod_producenta>10011701</Kod_producenta>
     <Kod_ean>4062859000507.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>33</Ilosc_produktow>
+    <Ilosc_produktow>32</Ilosc_produktow>
   </row>
   <row>
     <index>4181</index>
@@ -33454,7 +33454,7 @@
     <Kod_producenta>10011741</Kod_producenta>
     <Kod_ean>4062859001115.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>342</Ilosc_produktow>
+    <Ilosc_produktow>340</Ilosc_produktow>
   </row>
   <row>
     <index>4182</index>
@@ -33582,7 +33582,7 @@
     <Kod_producenta>10030366</Kod_producenta>
     <Kod_ean>4250928682055.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>27</Ilosc_produktow>
+    <Ilosc_produktow>26</Ilosc_produktow>
   </row>
   <row>
     <index>4198</index>
@@ -34230,7 +34230,7 @@
     <Kod_producenta>10040275</Kod_producenta>
     <Kod_ean>4250928683342.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>83</Ilosc_produktow>
+    <Ilosc_produktow>82</Ilosc_produktow>
   </row>
   <row>
     <index>4279</index>
@@ -34374,7 +34374,7 @@
     <Kod_producenta>10060823</Kod_producenta>
     <Kod_ean>4250928690289.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>511</Ilosc_produktow>
+    <Ilosc_produktow>510</Ilosc_produktow>
   </row>
   <row>
     <index>4297</index>
@@ -34494,7 +34494,7 @@
     <Kod_producenta>10060984</Kod_producenta>
     <Kod_ean>4250928683786.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>5</Ilosc_produktow>
+    <Ilosc_produktow>4</Ilosc_produktow>
   </row>
   <row>
     <index>4312</index>
@@ -34518,7 +34518,7 @@
     <Kod_producenta>10061068</Kod_producenta>
     <Kod_ean>4062859974204.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>314</Ilosc_produktow>
+    <Ilosc_produktow>313</Ilosc_produktow>
   </row>
   <row>
     <index>4315</index>
@@ -34534,7 +34534,7 @@
     <Kod_producenta>10061121</Kod_producenta>
     <Kod_ean>4062859965868.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>7</Ilosc_produktow>
+    <Ilosc_produktow>6</Ilosc_produktow>
   </row>
   <row>
     <index>4317</index>
@@ -34614,7 +34614,7 @@
     <Kod_producenta>10061230</Kod_producenta>
     <Kod_ean>4062859947277.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>93</Ilosc_produktow>
+    <Ilosc_produktow>92</Ilosc_produktow>
   </row>
   <row>
     <index>4327</index>
@@ -34638,7 +34638,7 @@
     <Kod_producenta>10061233</Kod_producenta>
     <Kod_ean>4062859952110.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>29</Ilosc_produktow>
+    <Ilosc_produktow>28</Ilosc_produktow>
   </row>
   <row>
     <index>4330</index>
@@ -34686,7 +34686,7 @@
     <Kod_producenta>10061320</Kod_producenta>
     <Kod_ean>4062859000989.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>45</Ilosc_produktow>
+    <Ilosc_produktow>44</Ilosc_produktow>
   </row>
   <row>
     <index>4336</index>
@@ -34974,7 +34974,7 @@
     <Kod_producenta>10011391</Kod_producenta>
     <Kod_ean>4062859993229.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>240</Ilosc_produktow>
+    <Ilosc_produktow>239</Ilosc_produktow>
   </row>
   <row>
     <index>4372</index>
@@ -35054,7 +35054,7 @@
     <Kod_producenta>10030450</Kod_producenta>
     <Kod_ean>4250928682680.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>33</Ilosc_produktow>
+    <Ilosc_produktow>32</Ilosc_produktow>
   </row>
   <row>
     <index>4382</index>
@@ -35294,7 +35294,7 @@
     <Kod_producenta>10061325</Kod_producenta>
     <Kod_ean>4062859946836.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>210</Ilosc_produktow>
+    <Ilosc_produktow>209</Ilosc_produktow>
   </row>
   <row>
     <index>4412</index>
@@ -35374,7 +35374,7 @@
     <Kod_producenta>10090121</Kod_producenta>
     <Kod_ean>4062859992673.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>53</Ilosc_produktow>
+    <Ilosc_produktow>52</Ilosc_produktow>
   </row>
   <row>
     <index>4422</index>
@@ -35382,7 +35382,7 @@
     <Kod_producenta>10090122</Kod_producenta>
     <Kod_ean>4062859992680.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>46</Ilosc_produktow>
+    <Ilosc_produktow>45</Ilosc_produktow>
   </row>
   <row>
     <index>4423</index>
@@ -35390,7 +35390,7 @@
     <Kod_producenta>10090123</Kod_producenta>
     <Kod_ean>4062859992697.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>408</Ilosc_produktow>
+    <Ilosc_produktow>407</Ilosc_produktow>
   </row>
   <row>
     <index>4424</index>
@@ -36270,7 +36270,7 @@
     <Kod_producenta>509487</Kod_producenta>
     <Kod_ean>8711369509487.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>69</Ilosc_produktow>
+    <Ilosc_produktow>65</Ilosc_produktow>
   </row>
   <row>
     <index>4534</index>
@@ -36310,7 +36310,7 @@
     <Kod_producenta>271261</Kod_producenta>
     <Kod_ean>8711369271261.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>177</Ilosc_produktow>
+    <Ilosc_produktow>171</Ilosc_produktow>
   </row>
   <row>
     <index>4539</index>
@@ -36454,7 +36454,7 @@
     <Kod_producenta>198247</Kod_producenta>
     <Kod_ean>8711369198247.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>1346</Ilosc_produktow>
+    <Ilosc_produktow>1345</Ilosc_produktow>
   </row>
   <row>
     <index>4557</index>
@@ -37646,7 +37646,7 @@
     <Kod_producenta>297421</Kod_producenta>
     <Kod_ean>8711369297421.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>476</Ilosc_produktow>
+    <Ilosc_produktow>474</Ilosc_produktow>
   </row>
   <row>
     <index>4706</index>
@@ -37654,7 +37654,7 @@
     <Kod_producenta>297438</Kod_producenta>
     <Kod_ean>8711369297438.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>1153</Ilosc_produktow>
+    <Ilosc_produktow>1151</Ilosc_produktow>
   </row>
   <row>
     <index>4707</index>
@@ -37662,7 +37662,7 @@
     <Kod_producenta>297445</Kod_producenta>
     <Kod_ean>8711369297445.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>635</Ilosc_produktow>
+    <Ilosc_produktow>633</Ilosc_produktow>
   </row>
   <row>
     <index>4708</index>
@@ -38350,7 +38350,7 @@
     <Kod_producenta>709801</Kod_producenta>
     <Kod_ean>8711369709801.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>241</Ilosc_produktow>
+    <Ilosc_produktow>240</Ilosc_produktow>
   </row>
   <row>
     <index>4794</index>
@@ -38710,7 +38710,7 @@
     <Kod_producenta>816691</Kod_producenta>
     <Kod_ean>8711369816691.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>6</Ilosc_produktow>
+    <Ilosc_produktow>5</Ilosc_produktow>
   </row>
   <row>
     <index>4839</index>
@@ -38822,7 +38822,7 @@
     <Kod_producenta>190029</Kod_producenta>
     <Kod_ean>8711369190029.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>1026</Ilosc_produktow>
+    <Ilosc_produktow>1025</Ilosc_produktow>
   </row>
   <row>
     <index>4853</index>
@@ -38846,7 +38846,7 @@
     <Kod_producenta>871829</Kod_producenta>
     <Kod_ean>4004133909021.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>134</Ilosc_produktow>
+    <Ilosc_produktow>133</Ilosc_produktow>
   </row>
   <row>
     <index>4856</index>
@@ -39086,7 +39086,7 @@
     <Kod_producenta>211458</Kod_producenta>
     <Kod_ean>8711369211458.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>88</Ilosc_produktow>
+    <Ilosc_produktow>85</Ilosc_produktow>
   </row>
   <row>
     <index>4886</index>
@@ -39382,7 +39382,7 @@
     <Kod_producenta>270097</Kod_producenta>
     <Kod_ean>8711369270097.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>351</Ilosc_produktow>
+    <Ilosc_produktow>348</Ilosc_produktow>
   </row>
   <row>
     <index>4923</index>
@@ -40038,7 +40038,7 @@
     <Kod_producenta>426647</Kod_producenta>
     <Kod_ean>8711369426647.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>123</Ilosc_produktow>
+    <Ilosc_produktow>122</Ilosc_produktow>
   </row>
   <row>
     <index>5005</index>
@@ -41174,7 +41174,7 @@
     <Kod_producenta>10011100</Kod_producenta>
     <Kod_ean>4250928692207.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>313</Ilosc_produktow>
+    <Ilosc_produktow>312</Ilosc_produktow>
   </row>
   <row>
     <index>5147</index>
@@ -41438,7 +41438,7 @@
     <Kod_producenta>10012327</Kod_producenta>
     <Kod_ean>4062859040862.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>72</Ilosc_produktow>
+    <Ilosc_produktow>71</Ilosc_produktow>
   </row>
   <row>
     <index>5180</index>
@@ -41462,7 +41462,7 @@
     <Kod_producenta>10021089</Kod_producenta>
     <Kod_ean>4250928670618.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>123</Ilosc_produktow>
+    <Ilosc_produktow>122</Ilosc_produktow>
   </row>
   <row>
     <index>5183</index>
@@ -41558,7 +41558,7 @@
     <Kod_producenta>10030445</Kod_producenta>
     <Kod_ean>4250928682635.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>115</Ilosc_produktow>
+    <Ilosc_produktow>114</Ilosc_produktow>
   </row>
   <row>
     <index>5195</index>
@@ -41686,7 +41686,7 @@
     <Kod_producenta>10030677</Kod_producenta>
     <Kod_ean>4062859017215.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>103</Ilosc_produktow>
+    <Ilosc_produktow>102</Ilosc_produktow>
   </row>
   <row>
     <index>5211</index>
@@ -41774,7 +41774,7 @@
     <Kod_producenta>10061046</Kod_producenta>
     <Kod_ean>4062859986214.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>712</Ilosc_produktow>
+    <Ilosc_produktow>711</Ilosc_produktow>
   </row>
   <row>
     <index>5222</index>
@@ -41990,7 +41990,7 @@
     <Kod_producenta>10280048</Kod_producenta>
     <Kod_ean>4062859012722.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>87</Ilosc_produktow>
+    <Ilosc_produktow>86</Ilosc_produktow>
   </row>
   <row>
     <index>5249</index>
@@ -42150,7 +42150,7 @@
     <Kod_producenta>10011130</Kod_producenta>
     <Kod_ean>4250928695840.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>343</Ilosc_produktow>
+    <Ilosc_produktow>341</Ilosc_produktow>
   </row>
   <row>
     <index>5269</index>
@@ -42158,7 +42158,7 @@
     <Kod_producenta>10011376</Kod_producenta>
     <Kod_ean>4062859992826.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>35</Ilosc_produktow>
+    <Ilosc_produktow>34</Ilosc_produktow>
   </row>
   <row>
     <index>5270</index>
@@ -42414,7 +42414,7 @@
     <Kod_producenta>10012350</Kod_producenta>
     <Kod_ean>4062859046727.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>79</Ilosc_produktow>
+    <Ilosc_produktow>78</Ilosc_produktow>
   </row>
   <row>
     <index>5302</index>
@@ -42566,7 +42566,7 @@
     <Kod_producenta>10040419</Kod_producenta>
     <Kod_ean>4062859009883.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>326</Ilosc_produktow>
+    <Ilosc_produktow>324</Ilosc_produktow>
   </row>
   <row>
     <index>5321</index>
@@ -42606,7 +42606,7 @@
     <Kod_producenta>10040441</Kod_producenta>
     <Kod_ean>4062859033253.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>24</Ilosc_produktow>
+    <Ilosc_produktow>23</Ilosc_produktow>
   </row>
   <row>
     <index>5326</index>
@@ -42646,7 +42646,7 @@
     <Kod_producenta>10040489</Kod_producenta>
     <Kod_ean>4062859059130.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>72</Ilosc_produktow>
+    <Ilosc_produktow>69</Ilosc_produktow>
   </row>
   <row>
     <index>5331</index>
@@ -42662,7 +42662,7 @@
     <Kod_producenta>10040495</Kod_producenta>
     <Kod_ean>4062859059192.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>46</Ilosc_produktow>
+    <Ilosc_produktow>45</Ilosc_produktow>
   </row>
   <row>
     <index>5333</index>
@@ -42814,7 +42814,7 @@
     <Kod_producenta>10090213</Kod_producenta>
     <Kod_ean>4062859038708.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2</Ilosc_produktow>
+    <Ilosc_produktow>1</Ilosc_produktow>
   </row>
   <row>
     <index>5352</index>
@@ -42830,7 +42830,7 @@
     <Kod_producenta>10090215</Kod_producenta>
     <Kod_ean>4062859038722.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>25</Ilosc_produktow>
+    <Ilosc_produktow>24</Ilosc_produktow>
   </row>
   <row>
     <index>5354</index>
@@ -42862,7 +42862,7 @@
     <Kod_producenta>10130008</Kod_producenta>
     <Kod_ean>4250928689757.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>37</Ilosc_produktow>
+    <Ilosc_produktow>35</Ilosc_produktow>
   </row>
   <row>
     <index>5358</index>
@@ -42934,7 +42934,7 @@
     <Kod_producenta>10230197</Kod_producenta>
     <Kod_ean>4062859017383.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>43</Ilosc_produktow>
+    <Ilosc_produktow>41</Ilosc_produktow>
   </row>
   <row>
     <index>5367</index>
@@ -43198,7 +43198,7 @@
     <Kod_producenta>10260174</Kod_producenta>
     <Kod_ean>4062859005939.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>82</Ilosc_produktow>
+    <Ilosc_produktow>81</Ilosc_produktow>
   </row>
   <row>
     <index>5400</index>
@@ -43278,7 +43278,7 @@
     <Kod_producenta>10260210</Kod_producenta>
     <Kod_ean>4062859008343.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>25</Ilosc_produktow>
+    <Ilosc_produktow>24</Ilosc_produktow>
   </row>
   <row>
     <index>5410</index>
@@ -43454,7 +43454,7 @@
     <Kod_producenta>10260332</Kod_producenta>
     <Kod_ean>4062859052100.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>93</Ilosc_produktow>
+    <Ilosc_produktow>92</Ilosc_produktow>
   </row>
   <row>
     <index>5432</index>
@@ -44318,7 +44318,7 @@
     <Kod_producenta>10061700</Kod_producenta>
     <Kod_ean>4062859032324.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>81</Ilosc_produktow>
+    <Ilosc_produktow>80</Ilosc_produktow>
   </row>
   <row>
     <index>5540</index>
@@ -44406,7 +44406,7 @@
     <Kod_producenta>10061875</Kod_producenta>
     <Kod_ean>4062859057488.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>141</Ilosc_produktow>
+    <Ilosc_produktow>140</Ilosc_produktow>
   </row>
   <row>
     <index>5551</index>
@@ -44566,7 +44566,7 @@
     <Kod_producenta>1014824</Kod_producenta>
     <Kod_ean>5902578455105.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>54</Ilosc_produktow>
+    <Ilosc_produktow>34</Ilosc_produktow>
   </row>
   <row>
     <index>5571</index>
@@ -44630,7 +44630,7 @@
     <Kod_producenta>10011686</Kod_producenta>
     <Kod_ean>4062859945211.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>47</Ilosc_produktow>
+    <Ilosc_produktow>46</Ilosc_produktow>
   </row>
   <row>
     <index>5579</index>
@@ -44662,7 +44662,7 @@
     <Kod_producenta>10011731</Kod_producenta>
     <Kod_ean>4062859000804.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>94</Ilosc_produktow>
+    <Ilosc_produktow>93</Ilosc_produktow>
   </row>
   <row>
     <index>5583</index>
@@ -45006,7 +45006,7 @@
     <Kod_producenta>10061348</Kod_producenta>
     <Kod_ean>4062859003744.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>63</Ilosc_produktow>
+    <Ilosc_produktow>62</Ilosc_produktow>
   </row>
   <row>
     <index>5626</index>
@@ -45126,7 +45126,7 @@
     <Kod_producenta>10061914</Kod_producenta>
     <Kod_ean>4062859069542.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>91</Ilosc_produktow>
+    <Ilosc_produktow>90</Ilosc_produktow>
   </row>
   <row>
     <index>5641</index>
@@ -45254,7 +45254,7 @@
     <Kod_producenta>10012490</Kod_producenta>
     <Kod_ean>4062859066909.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>95</Ilosc_produktow>
+    <Ilosc_produktow>89</Ilosc_produktow>
   </row>
   <row>
     <index>5657</index>
@@ -45462,7 +45462,7 @@
     <Kod_producenta>10030796</Kod_producenta>
     <Kod_ean>4062859057594.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>103</Ilosc_produktow>
+    <Ilosc_produktow>102</Ilosc_produktow>
   </row>
   <row>
     <index>5683</index>
@@ -45614,7 +45614,7 @@
     <Kod_producenta>10062004</Kod_producenta>
     <Kod_ean>4062859093011.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>189</Ilosc_produktow>
+    <Ilosc_produktow>188</Ilosc_produktow>
   </row>
   <row>
     <index>5702</index>
@@ -45814,7 +45814,7 @@
     <Kod_producenta>10011663</Kod_producenta>
     <Kod_ean>4062859944986.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>105</Ilosc_produktow>
+    <Ilosc_produktow>103</Ilosc_produktow>
   </row>
   <row>
     <index>5727</index>
@@ -46022,7 +46022,7 @@
     <Kod_producenta>10012407</Kod_producenta>
     <Kod_ean>4062859058379.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>12</Ilosc_produktow>
+    <Ilosc_produktow>11</Ilosc_produktow>
   </row>
   <row>
     <index>5753</index>
@@ -46582,7 +46582,7 @@
     <Kod_producenta>10040303</Kod_producenta>
     <Kod_ean>4250928676528.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>14</Ilosc_produktow>
+    <Ilosc_produktow>13</Ilosc_produktow>
   </row>
   <row>
     <index>5823</index>
@@ -46630,7 +46630,7 @@
     <Kod_producenta>10040380</Kod_producenta>
     <Kod_ean>4062859005250.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>52</Ilosc_produktow>
+    <Ilosc_produktow>50</Ilosc_produktow>
   </row>
   <row>
     <index>5829</index>
@@ -46726,7 +46726,7 @@
     <Kod_producenta>10040536</Kod_producenta>
     <Kod_ean>4062859101082.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>76</Ilosc_produktow>
+    <Ilosc_produktow>75</Ilosc_produktow>
   </row>
   <row>
     <index>5841</index>
@@ -46910,7 +46910,7 @@
     <Kod_producenta>10012429</Kod_producenta>
     <Kod_ean>4062859062086.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>155</Ilosc_produktow>
+    <Ilosc_produktow>148</Ilosc_produktow>
   </row>
   <row>
     <index>5864</index>
@@ -46942,7 +46942,7 @@
     <Kod_producenta>10012618</Kod_producenta>
     <Kod_ean>4062859090393.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>66</Ilosc_produktow>
+    <Ilosc_produktow>65</Ilosc_produktow>
   </row>
   <row>
     <index>5868</index>
@@ -47606,7 +47606,7 @@
     <Kod_producenta>10030522</Kod_producenta>
     <Kod_ean>4062859983114.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>94</Ilosc_produktow>
+    <Ilosc_produktow>93</Ilosc_produktow>
   </row>
   <row>
     <index>5951</index>
@@ -47630,7 +47630,7 @@
     <Kod_producenta>10061114</Kod_producenta>
     <Kod_ean>4062859963949.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>51</Ilosc_produktow>
+    <Ilosc_produktow>50</Ilosc_produktow>
   </row>
   <row>
     <index>5954</index>
@@ -47662,7 +47662,7 @@
     <Kod_producenta>10061174</Kod_producenta>
     <Kod_ean>4062859952776.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>74</Ilosc_produktow>
+    <Ilosc_produktow>73</Ilosc_produktow>
   </row>
   <row>
     <index>5958</index>
@@ -48206,7 +48206,7 @@
     <Kod_producenta>596968</Kod_producenta>
     <Kod_ean>8711369596968.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>83</Ilosc_produktow>
+    <Ilosc_produktow>82</Ilosc_produktow>
   </row>
   <row>
     <index>6026</index>
@@ -48238,7 +48238,7 @@
     <Kod_producenta>596647</Kod_producenta>
     <Kod_ean>8711369596647.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>163</Ilosc_produktow>
+    <Ilosc_produktow>162</Ilosc_produktow>
   </row>
   <row>
     <index>6030</index>
@@ -48942,7 +48942,7 @@
     <Kod_producenta>10060948</Kod_producenta>
     <Kod_ean>4250928699329.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>69</Ilosc_produktow>
+    <Ilosc_produktow>68</Ilosc_produktow>
   </row>
   <row>
     <index>6118</index>
@@ -49022,7 +49022,7 @@
     <Kod_producenta>10061296</Kod_producenta>
     <Kod_ean>4062859944672.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>33</Ilosc_produktow>
+    <Ilosc_produktow>32</Ilosc_produktow>
   </row>
   <row>
     <index>6128</index>
@@ -49046,7 +49046,7 @@
     <Kod_producenta>10061303</Kod_producenta>
     <Kod_ean>4062859944740.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>115</Ilosc_produktow>
+    <Ilosc_produktow>114</Ilosc_produktow>
   </row>
   <row>
     <index>6131</index>
@@ -49062,7 +49062,7 @@
     <Kod_producenta>10062060</Kod_producenta>
     <Kod_ean>4062859125873.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2</Ilosc_produktow>
+    <Ilosc_produktow>1</Ilosc_produktow>
   </row>
   <row>
     <index>6133</index>
@@ -49406,7 +49406,7 @@
     <Kod_producenta>10061913</Kod_producenta>
     <Kod_ean>4062859069535.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>301</Ilosc_produktow>
+    <Ilosc_produktow>295</Ilosc_produktow>
   </row>
   <row>
     <index>6176</index>
@@ -49534,7 +49534,7 @@
     <Kod_producenta>10062220</Kod_producenta>
     <Kod_ean>4062859168603.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>26</Ilosc_produktow>
+    <Ilosc_produktow>25</Ilosc_produktow>
   </row>
   <row>
     <index>6192</index>
@@ -49806,7 +49806,7 @@
     <Kod_producenta>10250648</Kod_producenta>
     <Kod_ean>4062859188205.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>560</Ilosc_produktow>
+    <Ilosc_produktow>559</Ilosc_produktow>
   </row>
   <row>
     <index>6226</index>
@@ -49966,7 +49966,7 @@
     <Kod_producenta>10012576</Kod_producenta>
     <Kod_ean>4062859077509.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>12</Ilosc_produktow>
+    <Ilosc_produktow>11</Ilosc_produktow>
   </row>
   <row>
     <index>6246</index>
@@ -50014,7 +50014,7 @@
     <Kod_producenta>10012855</Kod_producenta>
     <Kod_ean>4062859143778.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>69</Ilosc_produktow>
+    <Ilosc_produktow>68</Ilosc_produktow>
   </row>
   <row>
     <index>6252</index>
@@ -50086,7 +50086,7 @@
     <Kod_producenta>10012883</Kod_producenta>
     <Kod_ean>4062859154699.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>79</Ilosc_produktow>
+    <Ilosc_produktow>78</Ilosc_produktow>
   </row>
   <row>
     <index>6261</index>
@@ -50102,7 +50102,7 @@
     <Kod_producenta>10012886</Kod_producenta>
     <Kod_ean>4062859155900.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>17</Ilosc_produktow>
+    <Ilosc_produktow>16</Ilosc_produktow>
   </row>
   <row>
     <index>6263</index>
@@ -50118,7 +50118,7 @@
     <Kod_producenta>10012898</Kod_producenta>
     <Kod_ean>4062859157751.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>39</Ilosc_produktow>
+    <Ilosc_produktow>38</Ilosc_produktow>
   </row>
   <row>
     <index>6265</index>
@@ -50278,7 +50278,7 @@
     <Kod_producenta>10062278</Kod_producenta>
     <Kod_ean>4062859182777.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>29</Ilosc_produktow>
+    <Ilosc_produktow>28</Ilosc_produktow>
   </row>
   <row>
     <index>6285</index>
@@ -50526,7 +50526,7 @@
     <Kod_producenta>7426825361660</Kod_producenta>
     <Kod_ean>5907769312113.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2166</Ilosc_produktow>
+    <Ilosc_produktow>2164</Ilosc_produktow>
   </row>
   <row>
     <index>6316</index>
@@ -50542,7 +50542,7 @@
     <Kod_producenta>7426825366597</Kod_producenta>
     <Kod_ean>5907769312199.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>118</Ilosc_produktow>
+    <Ilosc_produktow>116</Ilosc_produktow>
   </row>
   <row>
     <index>6318</index>
@@ -50558,7 +50558,7 @@
     <Kod_producenta>5907769300370</Kod_producenta>
     <Kod_ean>5907769300370.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1988</Ilosc_produktow>
+    <Ilosc_produktow>1986</Ilosc_produktow>
   </row>
   <row>
     <index>6320</index>
@@ -50582,7 +50582,7 @@
     <Kod_producenta>5907769300509</Kod_producenta>
     <Kod_ean>5907769300509.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1228</Ilosc_produktow>
+    <Ilosc_produktow>1226</Ilosc_produktow>
   </row>
   <row>
     <index>6323</index>
@@ -50590,7 +50590,7 @@
     <Kod_producenta>5907769300516</Kod_producenta>
     <Kod_ean>5907769300516.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1832</Ilosc_produktow>
+    <Ilosc_produktow>1831</Ilosc_produktow>
   </row>
   <row>
     <index>6324</index>
@@ -50598,7 +50598,7 @@
     <Kod_producenta>5907769300523</Kod_producenta>
     <Kod_ean>5907769300523.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2249</Ilosc_produktow>
+    <Ilosc_produktow>2239</Ilosc_produktow>
   </row>
   <row>
     <index>6325</index>
@@ -50606,7 +50606,7 @@
     <Kod_producenta>5907769300578</Kod_producenta>
     <Kod_ean>5907769300578.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>932</Ilosc_produktow>
+    <Ilosc_produktow>930</Ilosc_produktow>
   </row>
   <row>
     <index>6326</index>
@@ -50630,7 +50630,7 @@
     <Kod_producenta>5907769300622</Kod_producenta>
     <Kod_ean>5907769300622.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>761</Ilosc_produktow>
+    <Ilosc_produktow>760</Ilosc_produktow>
   </row>
   <row>
     <index>6329</index>
@@ -50646,7 +50646,7 @@
     <Kod_producenta>5907769300653</Kod_producenta>
     <Kod_ean>5907769300653.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>514</Ilosc_produktow>
+    <Ilosc_produktow>513</Ilosc_produktow>
   </row>
   <row>
     <index>6331</index>
@@ -50654,7 +50654,7 @@
     <Kod_producenta>5907769300660</Kod_producenta>
     <Kod_ean>5907769300660.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2125</Ilosc_produktow>
+    <Ilosc_produktow>2122</Ilosc_produktow>
   </row>
   <row>
     <index>6332</index>
@@ -50662,7 +50662,7 @@
     <Kod_producenta>5907769300677</Kod_producenta>
     <Kod_ean>5907769300677.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2191</Ilosc_produktow>
+    <Ilosc_produktow>2188</Ilosc_produktow>
   </row>
   <row>
     <index>6333</index>
@@ -50686,7 +50686,7 @@
     <Kod_producenta>5907769301452</Kod_producenta>
     <Kod_ean>5907769301452.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1294</Ilosc_produktow>
+    <Ilosc_produktow>1293</Ilosc_produktow>
   </row>
   <row>
     <index>6336</index>
@@ -50726,7 +50726,7 @@
     <Kod_producenta>5907769301360</Kod_producenta>
     <Kod_ean>5907769301360.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>306</Ilosc_produktow>
+    <Ilosc_produktow>305</Ilosc_produktow>
   </row>
   <row>
     <index>6341</index>
@@ -50734,7 +50734,7 @@
     <Kod_producenta>5907769301353</Kod_producenta>
     <Kod_ean>5907769301353.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1524</Ilosc_produktow>
+    <Ilosc_produktow>1523</Ilosc_produktow>
   </row>
   <row>
     <index>6342</index>
@@ -51086,7 +51086,7 @@
     <Kod_producenta>6971824970470</Kod_producenta>
     <Kod_ean>6971824970470.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>421</Ilosc_produktow>
+    <Ilosc_produktow>419</Ilosc_produktow>
   </row>
   <row>
     <index>6386</index>
@@ -51598,7 +51598,7 @@
     <Kod_producenta>10011634</Kod_producenta>
     <Kod_ean>4062859951885.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>67</Ilosc_produktow>
+    <Ilosc_produktow>66</Ilosc_produktow>
   </row>
   <row>
     <index>6450</index>
@@ -52078,7 +52078,7 @@
     <Kod_producenta>6953156293496</Kod_producenta>
     <Kod_ean>6953156293496.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>856</Ilosc_produktow>
+    <Ilosc_produktow>854</Ilosc_produktow>
   </row>
   <row>
     <index>6510</index>
@@ -52110,7 +52110,7 @@
     <Kod_producenta>5907769300059</Kod_producenta>
     <Kod_ean>5907769300059.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1552</Ilosc_produktow>
+    <Ilosc_produktow>1551</Ilosc_produktow>
   </row>
   <row>
     <index>6514</index>
@@ -52158,7 +52158,7 @@
     <Kod_producenta>6953156220119</Kod_producenta>
     <Kod_ean>6953156220119.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>91</Ilosc_produktow>
+    <Ilosc_produktow>90</Ilosc_produktow>
   </row>
   <row>
     <index>6520</index>
@@ -52366,7 +52366,7 @@
     <Kod_producenta>5907769301018</Kod_producenta>
     <Kod_ean>5907769301018.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>49</Ilosc_produktow>
+    <Ilosc_produktow>48</Ilosc_produktow>
   </row>
   <row>
     <index>6546</index>
@@ -52398,7 +52398,7 @@
     <Kod_producenta>6941237136268</Kod_producenta>
     <Kod_ean>6941237136268.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>4452</Ilosc_produktow>
+    <Ilosc_produktow>4448</Ilosc_produktow>
   </row>
   <row>
     <index>6550</index>
@@ -52574,7 +52574,7 @@
     <Kod_producenta>5907769306709</Kod_producenta>
     <Kod_ean>5907769306709.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>445</Ilosc_produktow>
+    <Ilosc_produktow>444</Ilosc_produktow>
   </row>
   <row>
     <index>6572</index>
@@ -52742,7 +52742,7 @@
     <Kod_producenta>9145576257876</Kod_producenta>
     <Kod_ean>5907769345463.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>64</Ilosc_produktow>
+    <Ilosc_produktow>63</Ilosc_produktow>
   </row>
   <row>
     <index>6593</index>
@@ -54638,7 +54638,7 @@
     <Kod_producenta>10031239</Kod_producenta>
     <Kod_ean>4062859180759.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>33</Ilosc_produktow>
+    <Ilosc_produktow>32</Ilosc_produktow>
   </row>
   <row>
     <index>6830</index>
@@ -54654,7 +54654,7 @@
     <Kod_producenta>10040277</Kod_producenta>
     <Kod_ean>4250928683366.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>286</Ilosc_produktow>
+    <Ilosc_produktow>284</Ilosc_produktow>
   </row>
   <row>
     <index>6832</index>
@@ -54678,7 +54678,7 @@
     <Kod_producenta>10040281</Kod_producenta>
     <Kod_ean>4250928683403.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>203</Ilosc_produktow>
+    <Ilosc_produktow>202</Ilosc_produktow>
   </row>
   <row>
     <index>6835</index>
@@ -54702,7 +54702,7 @@
     <Kod_producenta>10040311</Kod_producenta>
     <Kod_ean>4062859979346.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>176</Ilosc_produktow>
+    <Ilosc_produktow>173</Ilosc_produktow>
   </row>
   <row>
     <index>6838</index>
@@ -54950,7 +54950,7 @@
     <Kod_producenta>10012310</Kod_producenta>
     <Kod_ean>4062859039828.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>13</Ilosc_produktow>
+    <Ilosc_produktow>12</Ilosc_produktow>
   </row>
   <row>
     <index>6869</index>
@@ -55702,7 +55702,7 @@
     <Kod_producenta>6953156253025</Kod_producenta>
     <Kod_ean>6953156253025.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1777</Ilosc_produktow>
+    <Ilosc_produktow>1776</Ilosc_produktow>
   </row>
   <row>
     <index>6963</index>
@@ -55710,7 +55710,7 @@
     <Kod_producenta>6953156253063</Kod_producenta>
     <Kod_ean>6953156253063.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2249</Ilosc_produktow>
+    <Ilosc_produktow>2246</Ilosc_produktow>
   </row>
   <row>
     <index>6964</index>
@@ -55718,7 +55718,7 @@
     <Kod_producenta>7426825329400</Kod_producenta>
     <Kod_ean>5907769314827.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1890</Ilosc_produktow>
+    <Ilosc_produktow>1889</Ilosc_produktow>
   </row>
   <row>
     <index>6965</index>
@@ -55742,7 +55742,7 @@
     <Kod_producenta>6953156256712</Kod_producenta>
     <Kod_ean>6953156256712.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>732</Ilosc_produktow>
+    <Ilosc_produktow>727</Ilosc_produktow>
   </row>
   <row>
     <index>6968</index>
@@ -55814,7 +55814,7 @@
     <Kod_producenta>6953156291515</Kod_producenta>
     <Kod_ean>6953156291515.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>163</Ilosc_produktow>
+    <Ilosc_produktow>162</Ilosc_produktow>
   </row>
   <row>
     <index>6977</index>
@@ -55878,7 +55878,7 @@
     <Kod_producenta>6957303821594</Kod_producenta>
     <Kod_ean>6957303821594.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>352</Ilosc_produktow>
+    <Ilosc_produktow>337</Ilosc_produktow>
   </row>
   <row>
     <index>6985</index>
@@ -55958,7 +55958,7 @@
     <Kod_producenta>6957303843565</Kod_producenta>
     <Kod_ean>6957303843565.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>99</Ilosc_produktow>
+    <Ilosc_produktow>98</Ilosc_produktow>
   </row>
   <row>
     <index>6995</index>
@@ -55990,7 +55990,7 @@
     <Kod_producenta>6957303876549</Kod_producenta>
     <Kod_ean>6957303876549.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>370</Ilosc_produktow>
+    <Ilosc_produktow>355</Ilosc_produktow>
   </row>
   <row>
     <index>6999</index>
@@ -56158,7 +56158,7 @@
     <Kod_producenta>6957303838486</Kod_producenta>
     <Kod_ean>6957303838486.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2126</Ilosc_produktow>
+    <Ilosc_produktow>2121</Ilosc_produktow>
   </row>
   <row>
     <index>7020</index>
@@ -56230,7 +56230,7 @@
     <Kod_producenta>6932172600389</Kod_producenta>
     <Kod_ean>6932172600389.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1155</Ilosc_produktow>
+    <Ilosc_produktow>1153</Ilosc_produktow>
   </row>
   <row>
     <index>7029</index>
@@ -56502,7 +56502,7 @@
     <Kod_producenta>6932172608408</Kod_producenta>
     <Kod_ean>6932172608408.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>137</Ilosc_produktow>
+    <Ilosc_produktow>136</Ilosc_produktow>
   </row>
   <row>
     <index>7063</index>
@@ -56526,7 +56526,7 @@
     <Kod_producenta>6957303867110</Kod_producenta>
     <Kod_ean>6957303867110.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>217</Ilosc_produktow>
+    <Ilosc_produktow>216</Ilosc_produktow>
   </row>
   <row>
     <index>7066</index>
@@ -56774,7 +56774,7 @@
     <Kod_producenta>6957303852468</Kod_producenta>
     <Kod_ean>6957303852468.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>206</Ilosc_produktow>
+    <Ilosc_produktow>205</Ilosc_produktow>
   </row>
   <row>
     <index>7097</index>
@@ -56798,7 +56798,7 @@
     <Kod_producenta>6957303869855</Kod_producenta>
     <Kod_ean>6957303869855.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>437</Ilosc_produktow>
+    <Ilosc_produktow>434</Ilosc_produktow>
   </row>
   <row>
     <index>7100</index>
@@ -56902,7 +56902,7 @@
     <Kod_producenta>10011729</Kod_producenta>
     <Kod_ean>4062859000781.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>20</Ilosc_produktow>
+    <Ilosc_produktow>19</Ilosc_produktow>
   </row>
   <row>
     <index>7113</index>
@@ -57062,7 +57062,7 @@
     <Kod_producenta>10012803</Kod_producenta>
     <Kod_ean>4062859128294.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>84</Ilosc_produktow>
+    <Ilosc_produktow>83</Ilosc_produktow>
   </row>
   <row>
     <index>7133</index>
@@ -57102,7 +57102,7 @@
     <Kod_producenta>10012812</Kod_producenta>
     <Kod_ean>4062859128386.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>163</Ilosc_produktow>
+    <Ilosc_produktow>162</Ilosc_produktow>
   </row>
   <row>
     <index>7138</index>
@@ -57310,7 +57310,7 @@
     <Kod_producenta>10250652</Kod_producenta>
     <Kod_ean>4062859189844.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>12</Ilosc_produktow>
+    <Ilosc_produktow>11</Ilosc_produktow>
   </row>
   <row>
     <index>7164</index>
@@ -57342,7 +57342,7 @@
     <Kod_producenta>10011586</Kod_producenta>
     <Kod_ean>4062859954183.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>236</Ilosc_produktow>
+    <Ilosc_produktow>235</Ilosc_produktow>
   </row>
   <row>
     <index>7168</index>
@@ -57470,7 +57470,7 @@
     <Kod_producenta>10012000</Kod_producenta>
     <Kod_ean>4062859010643.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>65</Ilosc_produktow>
+    <Ilosc_produktow>62</Ilosc_produktow>
   </row>
   <row>
     <index>7184</index>
@@ -57478,7 +57478,7 @@
     <Kod_producenta>10012009</Kod_producenta>
     <Kod_ean>4062859010735.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>16</Ilosc_produktow>
+    <Ilosc_produktow>14</Ilosc_produktow>
   </row>
   <row>
     <index>7185</index>
@@ -58390,7 +58390,7 @@
     <Kod_producenta>6953156280335</Kod_producenta>
     <Kod_ean>6953156280335.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>4080</Ilosc_produktow>
+    <Ilosc_produktow>4070</Ilosc_produktow>
   </row>
   <row>
     <index>7299</index>
@@ -58446,7 +58446,7 @@
     <Kod_producenta>6953156278202</Kod_producenta>
     <Kod_ean>6953156278202.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>4382</Ilosc_produktow>
+    <Ilosc_produktow>4375</Ilosc_produktow>
   </row>
   <row>
     <index>7306</index>
@@ -58454,7 +58454,7 @@
     <Kod_producenta>6953156278219</Kod_producenta>
     <Kod_ean>6953156278219.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>10712</Ilosc_produktow>
+    <Ilosc_produktow>10711</Ilosc_produktow>
   </row>
   <row>
     <index>7307</index>
@@ -58462,7 +58462,7 @@
     <Kod_producenta>6953156278226</Kod_producenta>
     <Kod_ean>6953156278226.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1236</Ilosc_produktow>
+    <Ilosc_produktow>1235</Ilosc_produktow>
   </row>
   <row>
     <index>7308</index>
@@ -58478,7 +58478,7 @@
     <Kod_producenta>6953156278240</Kod_producenta>
     <Kod_ean>6953156278240.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>3232</Ilosc_produktow>
+    <Ilosc_produktow>3223</Ilosc_produktow>
   </row>
   <row>
     <index>7310</index>
@@ -58486,7 +58486,7 @@
     <Kod_producenta>6953156274921</Kod_producenta>
     <Kod_ean>6953156274921.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2130</Ilosc_produktow>
+    <Ilosc_produktow>2129</Ilosc_produktow>
   </row>
   <row>
     <index>7311</index>
@@ -58518,7 +58518,7 @@
     <Kod_producenta>6953156274983</Kod_producenta>
     <Kod_ean>6953156274983.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>14506</Ilosc_produktow>
+    <Ilosc_produktow>14496</Ilosc_produktow>
   </row>
   <row>
     <index>7315</index>
@@ -58542,7 +58542,7 @@
     <Kod_producenta>6953156285200</Kod_producenta>
     <Kod_ean>6953156285200.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>10521</Ilosc_produktow>
+    <Ilosc_produktow>10513</Ilosc_produktow>
   </row>
   <row>
     <index>7318</index>
@@ -58550,7 +58550,7 @@
     <Kod_producenta>6953156285217</Kod_producenta>
     <Kod_ean>6953156285217.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>8219</Ilosc_produktow>
+    <Ilosc_produktow>8218</Ilosc_produktow>
   </row>
   <row>
     <index>7319</index>
@@ -58566,7 +58566,7 @@
     <Kod_producenta>6953156285248</Kod_producenta>
     <Kod_ean>6953156285248.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>3389</Ilosc_produktow>
+    <Ilosc_produktow>3388</Ilosc_produktow>
   </row>
   <row>
     <index>7321</index>
@@ -58622,7 +58622,7 @@
     <Kod_producenta>6953156293427</Kod_producenta>
     <Kod_ean>6953156293427.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>265</Ilosc_produktow>
+    <Ilosc_produktow>261</Ilosc_produktow>
   </row>
   <row>
     <index>7328</index>
@@ -58702,7 +58702,7 @@
     <Kod_producenta>6953156296381</Kod_producenta>
     <Kod_ean>6953156296381.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>236</Ilosc_produktow>
+    <Ilosc_produktow>233</Ilosc_produktow>
   </row>
   <row>
     <index>7338</index>
@@ -58846,7 +58846,7 @@
     <Kod_producenta>6953156205413</Kod_producenta>
     <Kod_ean>6953156205413.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>3172</Ilosc_produktow>
+    <Ilosc_produktow>3165</Ilosc_produktow>
   </row>
   <row>
     <index>7356</index>
@@ -58894,7 +58894,7 @@
     <Kod_producenta>5907769300875</Kod_producenta>
     <Kod_ean>5907769300875.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2360</Ilosc_produktow>
+    <Ilosc_produktow>2358</Ilosc_produktow>
   </row>
   <row>
     <index>7362</index>
@@ -58958,7 +58958,7 @@
     <Kod_producenta>6953156208476</Kod_producenta>
     <Kod_ean>6953156208476.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1131</Ilosc_produktow>
+    <Ilosc_produktow>1130</Ilosc_produktow>
   </row>
   <row>
     <index>7370</index>
@@ -59022,7 +59022,7 @@
     <Kod_producenta>6932172602710</Kod_producenta>
     <Kod_ean>6932172602710.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>162</Ilosc_produktow>
+    <Ilosc_produktow>161</Ilosc_produktow>
   </row>
   <row>
     <index>7378</index>
@@ -59038,7 +59038,7 @@
     <Kod_producenta>6932172602758</Kod_producenta>
     <Kod_ean>6932172602758.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>118</Ilosc_produktow>
+    <Ilosc_produktow>117</Ilosc_produktow>
   </row>
   <row>
     <index>7380</index>
@@ -59070,7 +59070,7 @@
     <Kod_producenta>6932172602796</Kod_producenta>
     <Kod_ean>6932172602796.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1136</Ilosc_produktow>
+    <Ilosc_produktow>1135</Ilosc_produktow>
   </row>
   <row>
     <index>7384</index>
@@ -59134,7 +59134,7 @@
     <Kod_producenta>6932172602895</Kod_producenta>
     <Kod_ean>6932172602895.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1345</Ilosc_produktow>
+    <Ilosc_produktow>1344</Ilosc_produktow>
   </row>
   <row>
     <index>7392</index>
@@ -59174,7 +59174,7 @@
     <Kod_producenta>6932172607432</Kod_producenta>
     <Kod_ean>6932172607432.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1860</Ilosc_produktow>
+    <Ilosc_produktow>1859</Ilosc_produktow>
   </row>
   <row>
     <index>7397</index>
@@ -59222,7 +59222,7 @@
     <Kod_producenta>6932172605803</Kod_producenta>
     <Kod_ean>6932172605803.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>327</Ilosc_produktow>
+    <Ilosc_produktow>325</Ilosc_produktow>
   </row>
   <row>
     <index>7403</index>
@@ -59254,7 +59254,7 @@
     <Kod_producenta>6932172608774</Kod_producenta>
     <Kod_ean>6932172608774.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>292</Ilosc_produktow>
+    <Ilosc_produktow>291</Ilosc_produktow>
   </row>
   <row>
     <index>7407</index>
@@ -59270,7 +59270,7 @@
     <Kod_producenta>5907769307317</Kod_producenta>
     <Kod_ean>5907769307317.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2612</Ilosc_produktow>
+    <Ilosc_produktow>2610</Ilosc_produktow>
   </row>
   <row>
     <index>7409</index>
@@ -59478,7 +59478,7 @@
     <Kod_producenta>5907769307539</Kod_producenta>
     <Kod_ean>5907769307539.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2356</Ilosc_produktow>
+    <Ilosc_produktow>2355</Ilosc_produktow>
   </row>
   <row>
     <index>7435</index>
@@ -59574,7 +59574,7 @@
     <Kod_producenta>6932172620684</Kod_producenta>
     <Kod_ean>6932172620684.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>317</Ilosc_produktow>
+    <Ilosc_produktow>315</Ilosc_produktow>
   </row>
   <row>
     <index>7447</index>
@@ -60014,7 +60014,7 @@
     <Kod_producenta>10021335</Kod_producenta>
     <Kod_ean>4062859073570.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>15</Ilosc_produktow>
+    <Ilosc_produktow>14</Ilosc_produktow>
   </row>
   <row>
     <index>7502</index>
@@ -60134,7 +60134,7 @@
     <Kod_producenta>10040381</Kod_producenta>
     <Kod_ean>4062859005267.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>82</Ilosc_produktow>
+    <Ilosc_produktow>81</Ilosc_produktow>
   </row>
   <row>
     <index>7517</index>
@@ -60174,7 +60174,7 @@
     <Kod_producenta>10040600</Kod_producenta>
     <Kod_ean>4062859171931.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>44</Ilosc_produktow>
+    <Ilosc_produktow>43</Ilosc_produktow>
   </row>
   <row>
     <index>7522</index>
@@ -60342,7 +60342,7 @@
     <Kod_producenta>10062361</Kod_producenta>
     <Kod_ean>4062859188601.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>263</Ilosc_produktow>
+    <Ilosc_produktow>261</Ilosc_produktow>
   </row>
   <row>
     <index>7543</index>
@@ -60638,7 +60638,7 @@
     <Kod_producenta>6953156263512</Kod_producenta>
     <Kod_ean>6953156263512.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1418</Ilosc_produktow>
+    <Ilosc_produktow>1402</Ilosc_produktow>
   </row>
   <row>
     <index>7580</index>
@@ -60646,7 +60646,7 @@
     <Kod_producenta>6953156263536</Kod_producenta>
     <Kod_ean>6953156263536.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2596</Ilosc_produktow>
+    <Ilosc_produktow>2578</Ilosc_produktow>
   </row>
   <row>
     <index>7581</index>
@@ -60678,7 +60678,7 @@
     <Kod_producenta>6953156275010</Kod_producenta>
     <Kod_ean>6953156275010.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>4979</Ilosc_produktow>
+    <Ilosc_produktow>4978</Ilosc_produktow>
   </row>
   <row>
     <index>7585</index>
@@ -60702,7 +60702,7 @@
     <Kod_producenta>6953156285231</Kod_producenta>
     <Kod_ean>6953156285231.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>4131</Ilosc_produktow>
+    <Ilosc_produktow>4119</Ilosc_produktow>
   </row>
   <row>
     <index>7588</index>
@@ -60742,7 +60742,7 @@
     <Kod_producenta>6953156296336</Kod_producenta>
     <Kod_ean>6953156296336.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>647</Ilosc_produktow>
+    <Ilosc_produktow>646</Ilosc_produktow>
   </row>
   <row>
     <index>7593</index>
@@ -60750,7 +60750,7 @@
     <Kod_producenta>6957303855902</Kod_producenta>
     <Kod_ean>6957303855902.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1584</Ilosc_produktow>
+    <Ilosc_produktow>1582</Ilosc_produktow>
   </row>
   <row>
     <index>7594</index>
@@ -60934,7 +60934,7 @@
     <Kod_producenta>6957303803217</Kod_producenta>
     <Kod_ean>6957303803217.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>736</Ilosc_produktow>
+    <Ilosc_produktow>735</Ilosc_produktow>
   </row>
   <row>
     <index>7617</index>
@@ -61078,7 +61078,7 @@
     <Kod_producenta>6953156205512</Kod_producenta>
     <Kod_ean>6953156205512.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1857</Ilosc_produktow>
+    <Ilosc_produktow>1856</Ilosc_produktow>
   </row>
   <row>
     <index>7635</index>
@@ -61302,7 +61302,7 @@
     <Kod_producenta>6932172608033</Kod_producenta>
     <Kod_ean>6932172608033.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>237</Ilosc_produktow>
+    <Ilosc_produktow>235</Ilosc_produktow>
   </row>
   <row>
     <index>7663</index>
@@ -61566,7 +61566,7 @@
     <Kod_producenta>6932172617998</Kod_producenta>
     <Kod_ean>6932172617998.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>636</Ilosc_produktow>
+    <Ilosc_produktow>635</Ilosc_produktow>
   </row>
   <row>
     <index>7696</index>
@@ -61606,7 +61606,7 @@
     <Kod_producenta>6957303833450</Kod_producenta>
     <Kod_ean>6957303833450.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>94</Ilosc_produktow>
+    <Ilosc_produktow>93</Ilosc_produktow>
   </row>
   <row>
     <index>7701</index>
@@ -61646,7 +61646,7 @@
     <Kod_producenta>6957303817337</Kod_producenta>
     <Kod_ean>6957303817337.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>353</Ilosc_produktow>
+    <Ilosc_produktow>352</Ilosc_produktow>
   </row>
   <row>
     <index>7706</index>
@@ -61662,7 +61662,7 @@
     <Kod_producenta>6957303853205</Kod_producenta>
     <Kod_ean>6957303853205.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>418</Ilosc_produktow>
+    <Ilosc_produktow>417</Ilosc_produktow>
   </row>
   <row>
     <index>7708</index>
@@ -61726,7 +61726,7 @@
     <Kod_producenta>6956116701819</Kod_producenta>
     <Kod_ean>6956116701819.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>183</Ilosc_produktow>
+    <Ilosc_produktow>168</Ilosc_produktow>
   </row>
   <row>
     <index>7716</index>
@@ -61878,7 +61878,7 @@
     <Kod_producenta>6932172629441</Kod_producenta>
     <Kod_ean>6932172629441.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>29</Ilosc_produktow>
+    <Ilosc_produktow>27</Ilosc_produktow>
   </row>
   <row>
     <index>7735</index>
@@ -62142,7 +62142,7 @@
     <Kod_producenta>6953156273085</Kod_producenta>
     <Kod_ean>6953156273085.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2097</Ilosc_produktow>
+    <Ilosc_produktow>2096</Ilosc_produktow>
   </row>
   <row>
     <index>7768</index>
@@ -62166,7 +62166,7 @@
     <Kod_producenta>6953156278172</Kod_producenta>
     <Kod_ean>6953156278172.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2610</Ilosc_produktow>
+    <Ilosc_produktow>2608</Ilosc_produktow>
   </row>
   <row>
     <index>7771</index>
@@ -62230,7 +62230,7 @@
     <Kod_producenta>6953156297845</Kod_producenta>
     <Kod_ean>6953156297845.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1033</Ilosc_produktow>
+    <Ilosc_produktow>1032</Ilosc_produktow>
   </row>
   <row>
     <index>7779</index>
@@ -62254,7 +62254,7 @@
     <Kod_producenta>6953156215399</Kod_producenta>
     <Kod_ean>6953156215399.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>466</Ilosc_produktow>
+    <Ilosc_produktow>465</Ilosc_produktow>
   </row>
   <row>
     <index>7782</index>
@@ -62294,7 +62294,7 @@
     <Kod_producenta>6953156220805</Kod_producenta>
     <Kod_ean>6953156220805.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>485</Ilosc_produktow>
+    <Ilosc_produktow>483</Ilosc_produktow>
   </row>
   <row>
     <index>7787</index>
@@ -62382,7 +62382,7 @@
     <Kod_producenta>5907769300325</Kod_producenta>
     <Kod_ean>5907769300325.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2587</Ilosc_produktow>
+    <Ilosc_produktow>2583</Ilosc_produktow>
   </row>
   <row>
     <index>7798</index>
@@ -62398,7 +62398,7 @@
     <Kod_producenta>5907769300295</Kod_producenta>
     <Kod_ean>5907769300295.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1097</Ilosc_produktow>
+    <Ilosc_produktow>1096</Ilosc_produktow>
   </row>
   <row>
     <index>7800</index>
@@ -62462,7 +62462,7 @@
     <Kod_producenta>6953156230064</Kod_producenta>
     <Kod_ean>6953156230064.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>334</Ilosc_produktow>
+    <Ilosc_produktow>332</Ilosc_produktow>
   </row>
   <row>
     <index>7808</index>
@@ -62486,7 +62486,7 @@
     <Kod_producenta>6953156206021</Kod_producenta>
     <Kod_ean>6953156206021.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1298</Ilosc_produktow>
+    <Ilosc_produktow>1297</Ilosc_produktow>
   </row>
   <row>
     <index>7811</index>
@@ -62686,7 +62686,7 @@
     <Kod_producenta>6953156206724</Kod_producenta>
     <Kod_ean>6953156206724.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>246</Ilosc_produktow>
+    <Ilosc_produktow>245</Ilosc_produktow>
   </row>
   <row>
     <index>7836</index>
@@ -62694,7 +62694,7 @@
     <Kod_producenta>6957303811335</Kod_producenta>
     <Kod_ean>6957303811335.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>177</Ilosc_produktow>
+    <Ilosc_produktow>172</Ilosc_produktow>
   </row>
   <row>
     <index>7837</index>
@@ -62806,7 +62806,7 @@
     <Kod_producenta>6953156207240</Kod_producenta>
     <Kod_ean>6953156207240.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>14003</Ilosc_produktow>
+    <Ilosc_produktow>14002</Ilosc_produktow>
   </row>
   <row>
     <index>7851</index>
@@ -62838,7 +62838,7 @@
     <Kod_producenta>6953156206816</Kod_producenta>
     <Kod_ean>6953156206816.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>47</Ilosc_produktow>
+    <Ilosc_produktow>42</Ilosc_produktow>
   </row>
   <row>
     <index>7855</index>
@@ -62846,7 +62846,7 @@
     <Kod_producenta>6957303889105</Kod_producenta>
     <Kod_ean>6957303889105.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>53</Ilosc_produktow>
+    <Ilosc_produktow>52</Ilosc_produktow>
   </row>
   <row>
     <index>7856</index>
@@ -62950,7 +62950,7 @@
     <Kod_producenta>6953156207295</Kod_producenta>
     <Kod_ean>6953156207295.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1473</Ilosc_produktow>
+    <Ilosc_produktow>1471</Ilosc_produktow>
   </row>
   <row>
     <index>7869</index>
@@ -62982,7 +62982,7 @@
     <Kod_producenta>6953156230002</Kod_producenta>
     <Kod_ean>6953156230002.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1013</Ilosc_produktow>
+    <Ilosc_produktow>1011</Ilosc_produktow>
   </row>
   <row>
     <index>7873</index>
@@ -63070,7 +63070,7 @@
     <Kod_producenta>6941237172860</Kod_producenta>
     <Kod_ean>6941237172860.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>452</Ilosc_produktow>
+    <Ilosc_produktow>449</Ilosc_produktow>
   </row>
   <row>
     <index>7884</index>
@@ -63110,7 +63110,7 @@
     <Kod_producenta>6932172607463</Kod_producenta>
     <Kod_ean>6932172607463.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>468</Ilosc_produktow>
+    <Ilosc_produktow>458</Ilosc_produktow>
   </row>
   <row>
     <index>7889</index>
@@ -63206,7 +63206,7 @@
     <Kod_producenta>6932172612832</Kod_producenta>
     <Kod_ean>6932172612832.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>111</Ilosc_produktow>
+    <Ilosc_produktow>110</Ilosc_produktow>
   </row>
   <row>
     <index>7901</index>
@@ -63350,7 +63350,7 @@
     <Kod_producenta>10012244</Kod_producenta>
     <Kod_ean>4062859032515.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>9</Ilosc_produktow>
+    <Ilosc_produktow>8</Ilosc_produktow>
   </row>
   <row>
     <index>7919</index>
@@ -63510,7 +63510,7 @@
     <Kod_producenta>10021175</Kod_producenta>
     <Kod_ean>4062859948342.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>35</Ilosc_produktow>
+    <Ilosc_produktow>34</Ilosc_produktow>
   </row>
   <row>
     <index>7939</index>
@@ -63710,7 +63710,7 @@
     <Kod_producenta>10040182</Kod_producenta>
     <Kod_ean>4250928693044.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>185</Ilosc_produktow>
+    <Ilosc_produktow>184</Ilosc_produktow>
   </row>
   <row>
     <index>7964</index>
@@ -63950,7 +63950,7 @@
     <Kod_producenta>10061098</Kod_producenta>
     <Kod_ean>4062859969569.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>29</Ilosc_produktow>
+    <Ilosc_produktow>28</Ilosc_produktow>
   </row>
   <row>
     <index>7994</index>
@@ -64150,7 +64150,7 @@
     <Kod_producenta>10280455</Kod_producenta>
     <Kod_ean>4062859220141.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>39</Ilosc_produktow>
+    <Ilosc_produktow>38</Ilosc_produktow>
   </row>
   <row>
     <index>8019</index>
@@ -64294,7 +64294,7 @@
     <Kod_producenta>10011688</Kod_producenta>
     <Kod_ean>4062859945235.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>10</Ilosc_produktow>
+    <Ilosc_produktow>9</Ilosc_produktow>
   </row>
   <row>
     <index>8037</index>
@@ -64478,7 +64478,7 @@
     <Kod_producenta>10012835</Kod_producenta>
     <Kod_ean>4062859130235.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>74</Ilosc_produktow>
+    <Ilosc_produktow>72</Ilosc_produktow>
   </row>
   <row>
     <index>8060</index>
@@ -64766,7 +64766,7 @@
     <Kod_producenta>6953156293182</Kod_producenta>
     <Kod_ean>6953156293182.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>580</Ilosc_produktow>
+    <Ilosc_produktow>578</Ilosc_produktow>
   </row>
   <row>
     <index>8096</index>
@@ -64774,7 +64774,7 @@
     <Kod_producenta>6953156293212</Kod_producenta>
     <Kod_ean>6953156293212.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2703</Ilosc_produktow>
+    <Ilosc_produktow>2702</Ilosc_produktow>
   </row>
   <row>
     <index>8097</index>
@@ -64806,7 +64806,7 @@
     <Kod_producenta>6957303857067</Kod_producenta>
     <Kod_ean>6957303857067.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1465</Ilosc_produktow>
+    <Ilosc_produktow>1457</Ilosc_produktow>
   </row>
   <row>
     <index>8101</index>
@@ -64926,7 +64926,7 @@
     <Kod_producenta>6957303831029</Kod_producenta>
     <Kod_ean>6957303831029.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>290</Ilosc_produktow>
+    <Ilosc_produktow>289</Ilosc_produktow>
   </row>
   <row>
     <index>8116</index>
@@ -65022,7 +65022,7 @@
     <Kod_producenta>6957303807086</Kod_producenta>
     <Kod_ean>6957303807086.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>74</Ilosc_produktow>
+    <Ilosc_produktow>71</Ilosc_produktow>
   </row>
   <row>
     <index>8128</index>
@@ -65078,7 +65078,7 @@
     <Kod_producenta>6957303838363</Kod_producenta>
     <Kod_ean>6957303838363.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>814</Ilosc_produktow>
+    <Ilosc_produktow>764</Ilosc_produktow>
   </row>
   <row>
     <index>8135</index>
@@ -65142,7 +65142,7 @@
     <Kod_producenta>6957303876983</Kod_producenta>
     <Kod_ean>6957303876983.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>299</Ilosc_produktow>
+    <Ilosc_produktow>298</Ilosc_produktow>
   </row>
   <row>
     <index>8143</index>
@@ -65158,7 +65158,7 @@
     <Kod_producenta>6957303859740</Kod_producenta>
     <Kod_ean>6957303859740.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>223</Ilosc_produktow>
+    <Ilosc_produktow>222</Ilosc_produktow>
   </row>
   <row>
     <index>8145</index>
@@ -65182,7 +65182,7 @@
     <Kod_producenta>6953156227767</Kod_producenta>
     <Kod_ean>6953156227767.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1136</Ilosc_produktow>
+    <Ilosc_produktow>1135</Ilosc_produktow>
   </row>
   <row>
     <index>8148</index>
@@ -65198,7 +65198,7 @@
     <Kod_producenta>6957303878918</Kod_producenta>
     <Kod_ean>6957303878918.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>584</Ilosc_produktow>
+    <Ilosc_produktow>583</Ilosc_produktow>
   </row>
   <row>
     <index>8150</index>
@@ -65318,7 +65318,7 @@
     <Kod_producenta>6957303807062</Kod_producenta>
     <Kod_ean>6957303807062.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>279</Ilosc_produktow>
+    <Ilosc_produktow>269</Ilosc_produktow>
   </row>
   <row>
     <index>8165</index>
@@ -65382,7 +65382,7 @@
     <Kod_producenta>6957303842346</Kod_producenta>
     <Kod_ean>6957303842346.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>20</Ilosc_produktow>
+    <Ilosc_produktow>19</Ilosc_produktow>
   </row>
   <row>
     <index>8173</index>
@@ -65430,7 +65430,7 @@
     <Kod_producenta>6957303882816</Kod_producenta>
     <Kod_ean>6957303882816.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>175</Ilosc_produktow>
+    <Ilosc_produktow>145</Ilosc_produktow>
   </row>
   <row>
     <index>8179</index>
@@ -65494,7 +65494,7 @@
     <Kod_producenta>6953156201965</Kod_producenta>
     <Kod_ean>6953156201965.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>82</Ilosc_produktow>
+    <Ilosc_produktow>81</Ilosc_produktow>
   </row>
   <row>
     <index>8187</index>
@@ -65502,7 +65502,7 @@
     <Kod_producenta>6953156202009</Kod_producenta>
     <Kod_ean>6953156202009.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>3828</Ilosc_produktow>
+    <Ilosc_produktow>3827</Ilosc_produktow>
   </row>
   <row>
     <index>8188</index>
@@ -65534,7 +65534,7 @@
     <Kod_producenta>6953156201958</Kod_producenta>
     <Kod_ean>6953156201958.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>455</Ilosc_produktow>
+    <Ilosc_produktow>452</Ilosc_produktow>
   </row>
   <row>
     <index>8192</index>
@@ -65566,7 +65566,7 @@
     <Kod_producenta>6953156207059</Kod_producenta>
     <Kod_ean>6953156207059.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>12</Ilosc_produktow>
+    <Ilosc_produktow>11</Ilosc_produktow>
   </row>
   <row>
     <index>8196</index>
@@ -65622,7 +65622,7 @@
     <Kod_producenta>6953156207639</Kod_producenta>
     <Kod_ean>6953156207639.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>683</Ilosc_produktow>
+    <Ilosc_produktow>680</Ilosc_produktow>
   </row>
   <row>
     <index>8203</index>
@@ -65814,7 +65814,7 @@
     <Kod_producenta>6953156205079</Kod_producenta>
     <Kod_ean>6953156205079.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>20</Ilosc_produktow>
+    <Ilosc_produktow>19</Ilosc_produktow>
   </row>
   <row>
     <index>8227</index>
@@ -65942,7 +65942,7 @@
     <Kod_producenta>6941237161567</Kod_producenta>
     <Kod_ean>6941237161567.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>536</Ilosc_produktow>
+    <Ilosc_produktow>535</Ilosc_produktow>
   </row>
   <row>
     <index>8243</index>
@@ -66134,7 +66134,7 @@
     <Kod_producenta>6957303827855</Kod_producenta>
     <Kod_ean>6957303827855.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>41</Ilosc_produktow>
+    <Ilosc_produktow>40</Ilosc_produktow>
   </row>
   <row>
     <index>8267</index>
@@ -66278,7 +66278,7 @@
     <Kod_producenta>6932172605216</Kod_producenta>
     <Kod_ean>6932172605216.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1560</Ilosc_produktow>
+    <Ilosc_produktow>1558</Ilosc_produktow>
   </row>
   <row>
     <index>8285</index>
@@ -66302,7 +66302,7 @@
     <Kod_producenta>6957303893072</Kod_producenta>
     <Kod_ean>6957303893072.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>158</Ilosc_produktow>
+    <Ilosc_produktow>157</Ilosc_produktow>
   </row>
   <row>
     <index>8288</index>
@@ -66342,7 +66342,7 @@
     <Kod_producenta>6957303861804</Kod_producenta>
     <Kod_ean>6957303861804.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>242</Ilosc_produktow>
+    <Ilosc_produktow>241</Ilosc_produktow>
   </row>
   <row>
     <index>8293</index>
@@ -66414,7 +66414,7 @@
     <Kod_producenta>6957303851775</Kod_producenta>
     <Kod_ean>6957303851775.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>42</Ilosc_produktow>
+    <Ilosc_produktow>27</Ilosc_produktow>
   </row>
   <row>
     <index>8302</index>
@@ -66518,7 +66518,7 @@
     <Kod_producenta>6932172610289</Kod_producenta>
     <Kod_ean>6932172610289.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>165</Ilosc_produktow>
+    <Ilosc_produktow>63</Ilosc_produktow>
   </row>
   <row>
     <index>8315</index>
@@ -66902,7 +66902,7 @@
     <Kod_producenta>6956116733230</Kod_producenta>
     <Kod_ean>6956116733230.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>3350</Ilosc_produktow>
+    <Ilosc_produktow>3349</Ilosc_produktow>
   </row>
   <row>
     <index>8363</index>
@@ -66910,7 +66910,7 @@
     <Kod_producenta>6956116735807</Kod_producenta>
     <Kod_ean>6956116735807.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>410</Ilosc_produktow>
+    <Ilosc_produktow>399</Ilosc_produktow>
   </row>
   <row>
     <index>8364</index>
@@ -67014,7 +67014,7 @@
     <Kod_producenta>10011173</Kod_producenta>
     <Kod_ean>4250928698223.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>111</Ilosc_produktow>
+    <Ilosc_produktow>108</Ilosc_produktow>
   </row>
   <row>
     <index>8377</index>
@@ -67054,7 +67054,7 @@
     <Kod_producenta>10012682</Kod_producenta>
     <Kod_ean>4062859095602.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>292</Ilosc_produktow>
+    <Ilosc_produktow>291</Ilosc_produktow>
   </row>
   <row>
     <index>8382</index>
@@ -67118,7 +67118,7 @@
     <Kod_producenta>10021167</Kod_producenta>
     <Kod_ean>4062859948267.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>17</Ilosc_produktow>
+    <Ilosc_produktow>15</Ilosc_produktow>
   </row>
   <row>
     <index>8390</index>
@@ -67422,7 +67422,7 @@
     <Kod_producenta>6970379613658</Kod_producenta>
     <Kod_ean>6970379613658.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>161</Ilosc_produktow>
+    <Ilosc_produktow>155</Ilosc_produktow>
   </row>
   <row>
     <index>8428</index>
@@ -67454,7 +67454,7 @@
     <Kod_producenta>6970379617335</Kod_producenta>
     <Kod_ean>6970379617335.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1350</Ilosc_produktow>
+    <Ilosc_produktow>1347</Ilosc_produktow>
   </row>
   <row>
     <index>8432</index>
@@ -67622,7 +67622,7 @@
     <Kod_producenta>6973687240547</Kod_producenta>
     <Kod_ean>6973687240547.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>798</Ilosc_produktow>
+    <Ilosc_produktow>796</Ilosc_produktow>
   </row>
   <row>
     <index>8453</index>
@@ -67830,7 +67830,7 @@
     <Kod_producenta>6973687242695</Kod_producenta>
     <Kod_ean>6973687242695.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1469</Ilosc_produktow>
+    <Ilosc_produktow>1468</Ilosc_produktow>
   </row>
   <row>
     <index>8479</index>
@@ -67942,7 +67942,7 @@
     <Kod_producenta>8806092709843</Kod_producenta>
     <Kod_ean>8806092709843.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>13</Ilosc_produktow>
+    <Ilosc_produktow>12</Ilosc_produktow>
   </row>
   <row>
     <index>8493</index>
@@ -67974,7 +67974,7 @@
     <Kod_producenta>6973687243869</Kod_producenta>
     <Kod_ean>6973687243869.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>88</Ilosc_produktow>
+    <Ilosc_produktow>85</Ilosc_produktow>
   </row>
   <row>
     <index>8497</index>
@@ -68038,7 +68038,7 @@
     <Kod_producenta>6973687244132</Kod_producenta>
     <Kod_ean>6973687244132.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1876</Ilosc_produktow>
+    <Ilosc_produktow>1875</Ilosc_produktow>
   </row>
   <row>
     <index>8505</index>
@@ -68342,7 +68342,7 @@
     <Kod_producenta>6953156272446</Kod_producenta>
     <Kod_ean>6953156272446.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2866</Ilosc_produktow>
+    <Ilosc_produktow>2864</Ilosc_produktow>
   </row>
   <row>
     <index>8543</index>
@@ -68414,7 +68414,7 @@
     <Kod_producenta>6957303827282</Kod_producenta>
     <Kod_ean>6957303827282.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>219</Ilosc_produktow>
+    <Ilosc_produktow>218</Ilosc_produktow>
   </row>
   <row>
     <index>8552</index>
@@ -68478,7 +68478,7 @@
     <Kod_producenta>6957303834723</Kod_producenta>
     <Kod_ean>6957303834723.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>476</Ilosc_produktow>
+    <Ilosc_produktow>466</Ilosc_produktow>
   </row>
   <row>
     <index>8560</index>
@@ -68902,7 +68902,7 @@
     <Kod_producenta>6932172605568</Kod_producenta>
     <Kod_ean>6932172605568.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>682</Ilosc_produktow>
+    <Ilosc_produktow>679</Ilosc_produktow>
   </row>
   <row>
     <index>8613</index>
@@ -68934,7 +68934,7 @@
     <Kod_producenta>6957303813544</Kod_producenta>
     <Kod_ean>6957303813544.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>821</Ilosc_produktow>
+    <Ilosc_produktow>811</Ilosc_produktow>
   </row>
   <row>
     <index>8617</index>
@@ -69230,7 +69230,7 @@
     <Kod_producenta>6974316281412</Kod_producenta>
     <Kod_ean>6974316281412.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>44</Ilosc_produktow>
+    <Ilosc_produktow>42</Ilosc_produktow>
   </row>
   <row>
     <index>8654</index>
@@ -69406,7 +69406,7 @@
     <Kod_producenta>6932172620493</Kod_producenta>
     <Kod_ean>6932172620493.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>872</Ilosc_produktow>
+    <Ilosc_produktow>871</Ilosc_produktow>
   </row>
   <row>
     <index>8676</index>
@@ -69438,7 +69438,7 @@
     <Kod_producenta>6932172618070</Kod_producenta>
     <Kod_ean>6932172618070.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>292</Ilosc_produktow>
+    <Ilosc_produktow>291</Ilosc_produktow>
   </row>
   <row>
     <index>8680</index>
@@ -69446,7 +69446,7 @@
     <Kod_producenta>6932172618643</Kod_producenta>
     <Kod_ean>6932172618643.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1347</Ilosc_produktow>
+    <Ilosc_produktow>1343</Ilosc_produktow>
   </row>
   <row>
     <index>8681</index>
@@ -69470,7 +69470,7 @@
     <Kod_producenta>6932172617875</Kod_producenta>
     <Kod_ean>6932172617875.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>421</Ilosc_produktow>
+    <Ilosc_produktow>417</Ilosc_produktow>
   </row>
   <row>
     <index>8684</index>
@@ -69478,7 +69478,7 @@
     <Kod_producenta>6932172622343</Kod_producenta>
     <Kod_ean>6932172622343.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>286</Ilosc_produktow>
+    <Ilosc_produktow>284</Ilosc_produktow>
   </row>
   <row>
     <index>8685</index>
@@ -69502,7 +69502,7 @@
     <Kod_producenta>10011738</Kod_producenta>
     <Kod_ean>4062859001085.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>24</Ilosc_produktow>
+    <Ilosc_produktow>23</Ilosc_produktow>
   </row>
   <row>
     <index>8688</index>
@@ -69534,7 +69534,7 @@
     <Kod_producenta>10012706</Kod_producenta>
     <Kod_ean>4062859098559.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>65</Ilosc_produktow>
+    <Ilosc_produktow>64</Ilosc_produktow>
   </row>
   <row>
     <index>8692</index>
@@ -69790,7 +69790,7 @@
     <Kod_producenta>10061264</Kod_producenta>
     <Kod_ean>4062859943217.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>31</Ilosc_produktow>
+    <Ilosc_produktow>30</Ilosc_produktow>
   </row>
   <row>
     <index>8724</index>
@@ -69854,7 +69854,7 @@
     <Kod_producenta>10061333</Kod_producenta>
     <Kod_ean>4062859001412.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>232</Ilosc_produktow>
+    <Ilosc_produktow>231</Ilosc_produktow>
   </row>
   <row>
     <index>8732</index>
@@ -69902,7 +69902,7 @@
     <Kod_producenta>10061757</Kod_producenta>
     <Kod_ean>4062859037961.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>140</Ilosc_produktow>
+    <Ilosc_produktow>139</Ilosc_produktow>
   </row>
   <row>
     <index>8738</index>
@@ -69918,7 +69918,7 @@
     <Kod_producenta>10061763</Kod_producenta>
     <Kod_ean>4062859038029.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>7</Ilosc_produktow>
+    <Ilosc_produktow>6</Ilosc_produktow>
   </row>
   <row>
     <index>8740</index>
@@ -70078,7 +70078,7 @@
     <Kod_producenta>10011538</Kod_producenta>
     <Kod_ean>4062859964823.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>34</Ilosc_produktow>
+    <Ilosc_produktow>32</Ilosc_produktow>
   </row>
   <row>
     <index>8760</index>
@@ -70246,7 +70246,7 @@
     <Kod_producenta>10013138</Kod_producenta>
     <Kod_ean>4062859227751.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>92</Ilosc_produktow>
+    <Ilosc_produktow>91</Ilosc_produktow>
   </row>
   <row>
     <index>8781</index>
@@ -70390,7 +70390,7 @@
     <Kod_producenta>6941237166388</Kod_producenta>
     <Kod_ean>6941237166388.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>713</Ilosc_produktow>
+    <Ilosc_produktow>606</Ilosc_produktow>
   </row>
   <row>
     <index>8799</index>
@@ -70414,7 +70414,7 @@
     <Kod_producenta>6941237114273</Kod_producenta>
     <Kod_ean>6941237114273.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>70</Ilosc_produktow>
+    <Ilosc_produktow>69</Ilosc_produktow>
   </row>
   <row>
     <index>8802</index>
@@ -70558,7 +70558,7 @@
     <Kod_producenta>6957303816859</Kod_producenta>
     <Kod_ean>6957303816859.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>195</Ilosc_produktow>
+    <Ilosc_produktow>194</Ilosc_produktow>
   </row>
   <row>
     <index>8820</index>
@@ -70606,7 +70606,7 @@
     <Kod_producenta>6957303861811</Kod_producenta>
     <Kod_ean>6957303861811.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>127</Ilosc_produktow>
+    <Ilosc_produktow>126</Ilosc_produktow>
   </row>
   <row>
     <index>8826</index>
@@ -70742,7 +70742,7 @@
     <Kod_producenta>6957303855681</Kod_producenta>
     <Kod_ean>6957303855681.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2377</Ilosc_produktow>
+    <Ilosc_produktow>2376</Ilosc_produktow>
   </row>
   <row>
     <index>8843</index>
@@ -71086,7 +71086,7 @@
     <Kod_producenta>6932172622497</Kod_producenta>
     <Kod_ean>6932172622497.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2310</Ilosc_produktow>
+    <Ilosc_produktow>2307</Ilosc_produktow>
   </row>
   <row>
     <index>8886</index>
@@ -71150,7 +71150,7 @@
     <Kod_producenta>6956116750619</Kod_producenta>
     <Kod_ean>6956116750619.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2734</Ilosc_produktow>
+    <Ilosc_produktow>2694</Ilosc_produktow>
   </row>
   <row>
     <index>8894</index>
@@ -71166,7 +71166,7 @@
     <Kod_producenta>6956116733490</Kod_producenta>
     <Kod_ean>6956116733490.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2304</Ilosc_produktow>
+    <Ilosc_produktow>2302</Ilosc_produktow>
   </row>
   <row>
     <index>8896</index>
@@ -71214,7 +71214,7 @@
     <Kod_producenta>6956116799359</Kod_producenta>
     <Kod_ean>6956116799359.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>336</Ilosc_produktow>
+    <Ilosc_produktow>335</Ilosc_produktow>
   </row>
   <row>
     <index>8902</index>
@@ -71222,7 +71222,7 @@
     <Kod_producenta>6956116736828</Kod_producenta>
     <Kod_ean>6956116736828.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1851</Ilosc_produktow>
+    <Ilosc_produktow>1834</Ilosc_produktow>
   </row>
   <row>
     <index>8903</index>
@@ -71294,7 +71294,7 @@
     <Kod_producenta>6932172623654</Kod_producenta>
     <Kod_ean>6932172623654.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>52</Ilosc_produktow>
+    <Ilosc_produktow>51</Ilosc_produktow>
   </row>
   <row>
     <index>8912</index>
@@ -71534,7 +71534,7 @@
     <Kod_producenta>6932172627058</Kod_producenta>
     <Kod_ean>6932172627058.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1253</Ilosc_produktow>
+    <Ilosc_produktow>1251</Ilosc_produktow>
   </row>
   <row>
     <index>8942</index>
@@ -71614,7 +71614,7 @@
     <Kod_producenta>6973687248338</Kod_producenta>
     <Kod_ean>6973687248338.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1336</Ilosc_produktow>
+    <Ilosc_produktow>1333</Ilosc_produktow>
   </row>
   <row>
     <index>8952</index>
@@ -71622,7 +71622,7 @@
     <Kod_producenta>6932172626990</Kod_producenta>
     <Kod_ean>6932172626990.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>684</Ilosc_produktow>
+    <Ilosc_produktow>682</Ilosc_produktow>
   </row>
   <row>
     <index>8953</index>
@@ -71662,7 +71662,7 @@
     <Kod_producenta>6932172632649</Kod_producenta>
     <Kod_ean>6932172632649.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>3763</Ilosc_produktow>
+    <Ilosc_produktow>3723</Ilosc_produktow>
   </row>
   <row>
     <index>8958</index>
@@ -71966,7 +71966,7 @@
     <Kod_producenta>6957303867226</Kod_producenta>
     <Kod_ean>6957303867226.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>187</Ilosc_produktow>
+    <Ilosc_produktow>186</Ilosc_produktow>
   </row>
   <row>
     <index>8996</index>
@@ -72438,7 +72438,7 @@
     <Kod_producenta>8809811860863</Kod_producenta>
     <Kod_ean>8809811860863.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>15</Ilosc_produktow>
+    <Ilosc_produktow>14</Ilosc_produktow>
   </row>
   <row>
     <index>9055</index>
@@ -72494,7 +72494,7 @@
     <Kod_producenta>6957303882786</Kod_producenta>
     <Kod_ean>6957303882786.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>720</Ilosc_produktow>
+    <Ilosc_produktow>690</Ilosc_produktow>
   </row>
   <row>
     <index>9062</index>
@@ -72686,7 +72686,7 @@
     <Kod_producenta>6956116748432</Kod_producenta>
     <Kod_ean>6956116748432.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>250</Ilosc_produktow>
+    <Ilosc_produktow>248</Ilosc_produktow>
   </row>
   <row>
     <index>9086</index>
@@ -72694,7 +72694,7 @@
     <Kod_producenta>6956116748333</Kod_producenta>
     <Kod_ean>6956116748333.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1318</Ilosc_produktow>
+    <Ilosc_produktow>1317</Ilosc_produktow>
   </row>
   <row>
     <index>9087</index>
@@ -73206,7 +73206,7 @@
     <Kod_producenta>6941237110428</Kod_producenta>
     <Kod_ean>6941237110428.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>4156</Ilosc_produktow>
+    <Ilosc_produktow>4146</Ilosc_produktow>
   </row>
   <row>
     <index>9151</index>
@@ -73526,7 +73526,7 @@
     <Kod_producenta>10012424</Kod_producenta>
     <Kod_ean>4062859062031.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>71</Ilosc_produktow>
+    <Ilosc_produktow>70</Ilosc_produktow>
   </row>
   <row>
     <index>9191</index>
@@ -73742,7 +73742,7 @@
     <Kod_producenta>10280301</Kod_producenta>
     <Kod_ean>4062859116901.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>49</Ilosc_produktow>
+    <Ilosc_produktow>48</Ilosc_produktow>
   </row>
   <row>
     <index>9218</index>
@@ -73782,7 +73782,7 @@
     <Kod_producenta>6957303825035</Kod_producenta>
     <Kod_ean>6957303825035.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1585</Ilosc_produktow>
+    <Ilosc_produktow>1534</Ilosc_produktow>
   </row>
   <row>
     <index>9223</index>
@@ -75190,7 +75190,7 @@
     <Kod_producenta>6957303816873</Kod_producenta>
     <Kod_ean>6957303816873.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>264</Ilosc_produktow>
+    <Ilosc_produktow>253</Ilosc_produktow>
   </row>
   <row>
     <index>9399</index>
@@ -75214,7 +75214,7 @@
     <Kod_producenta>6957303815111</Kod_producenta>
     <Kod_ean>6957303815111.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>412</Ilosc_produktow>
+    <Ilosc_produktow>401</Ilosc_produktow>
   </row>
   <row>
     <index>9402</index>
@@ -75622,7 +75622,7 @@
     <Kod_producenta>5907769308420</Kod_producenta>
     <Kod_ean>5907769308420.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>99</Ilosc_produktow>
+    <Ilosc_produktow>91</Ilosc_produktow>
   </row>
   <row>
     <index>9453</index>
@@ -75782,7 +75782,7 @@
     <Kod_producenta>9145576282311</Kod_producenta>
     <Kod_ean>5907769321573.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>217</Ilosc_produktow>
+    <Ilosc_produktow>216</Ilosc_produktow>
   </row>
   <row>
     <index>9473</index>
@@ -75886,7 +75886,7 @@
     <Kod_producenta>9145576282304</Kod_producenta>
     <Kod_ean>5907769321566.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>71</Ilosc_produktow>
+    <Ilosc_produktow>69</Ilosc_produktow>
   </row>
   <row>
     <index>9486</index>
@@ -76630,7 +76630,7 @@
     <Kod_producenta>6932172605223</Kod_producenta>
     <Kod_ean>6932172605223.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>3691</Ilosc_produktow>
+    <Ilosc_produktow>3689</Ilosc_produktow>
   </row>
   <row>
     <index>9579</index>
@@ -77390,7 +77390,7 @@
     <Kod_producenta>6932172628826</Kod_producenta>
     <Kod_ean>6932172628826.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1079</Ilosc_produktow>
+    <Ilosc_produktow>1078</Ilosc_produktow>
   </row>
   <row>
     <index>9674</index>
@@ -77430,7 +77430,7 @@
     <Kod_producenta>6973687247386</Kod_producenta>
     <Kod_ean>6973687247386.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1166</Ilosc_produktow>
+    <Ilosc_produktow>1165</Ilosc_produktow>
   </row>
   <row>
     <index>9679</index>
@@ -78006,7 +78006,7 @@
     <Kod_producenta>8809896752145</Kod_producenta>
     <Kod_ean>8809896752145.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>83</Ilosc_produktow>
+    <Ilosc_produktow>82</Ilosc_produktow>
   </row>
   <row>
     <index>9751</index>
@@ -78030,7 +78030,7 @@
     <Kod_producenta>8809896752244</Kod_producenta>
     <Kod_ean>8809896752244.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>110</Ilosc_produktow>
+    <Ilosc_produktow>107</Ilosc_produktow>
   </row>
   <row>
     <index>9754</index>
@@ -78286,7 +78286,7 @@
     <Kod_producenta>6932172636760</Kod_producenta>
     <Kod_ean>6932172636760.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>57</Ilosc_produktow>
+    <Ilosc_produktow>56</Ilosc_produktow>
   </row>
   <row>
     <index>9786</index>
@@ -79206,7 +79206,7 @@
     <Kod_producenta>6975092685845</Kod_producenta>
     <Kod_ean>6975092685845.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>14</Ilosc_produktow>
+    <Ilosc_produktow>13</Ilosc_produktow>
   </row>
   <row>
     <index>9901</index>
@@ -79390,7 +79390,7 @@
     <Kod_producenta>6932172628833</Kod_producenta>
     <Kod_ean>6932172628833.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>450</Ilosc_produktow>
+    <Ilosc_produktow>448</Ilosc_produktow>
   </row>
   <row>
     <index>9924</index>
@@ -80654,7 +80654,7 @@
     <Kod_producenta>6941237113610</Kod_producenta>
     <Kod_ean>6941237113610.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>59</Ilosc_produktow>
+    <Ilosc_produktow>58</Ilosc_produktow>
   </row>
   <row>
     <index>10082</index>
@@ -80678,7 +80678,7 @@
     <Kod_producenta>9145576283066</Kod_producenta>
     <Kod_ean>5907769321634.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>324</Ilosc_produktow>
+    <Ilosc_produktow>319</Ilosc_produktow>
   </row>
   <row>
     <index>10085</index>
@@ -80750,7 +80750,7 @@
     <Kod_producenta>6932172641757</Kod_producenta>
     <Kod_ean>6932172641757.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>586</Ilosc_produktow>
+    <Ilosc_produktow>584</Ilosc_produktow>
   </row>
   <row>
     <index>10094</index>
@@ -80878,7 +80878,7 @@
     <Kod_producenta>6956116776503</Kod_producenta>
     <Kod_ean>6956116776503.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>214</Ilosc_produktow>
+    <Ilosc_produktow>213</Ilosc_produktow>
   </row>
   <row>
     <index>10110</index>
@@ -81006,7 +81006,7 @@
     <Kod_producenta>10011998</Kod_producenta>
     <Kod_ean>4062859010629.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>45</Ilosc_produktow>
+    <Ilosc_produktow>44</Ilosc_produktow>
   </row>
   <row>
     <index>10126</index>
@@ -81382,7 +81382,7 @@
     <Kod_producenta>6957303828562</Kod_producenta>
     <Kod_ean>6957303828562.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>260</Ilosc_produktow>
+    <Ilosc_produktow>256</Ilosc_produktow>
   </row>
   <row>
     <index>10173</index>
@@ -81950,7 +81950,7 @@
     <Kod_producenta>6957303853618</Kod_producenta>
     <Kod_ean>6957303853618.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>898</Ilosc_produktow>
+    <Ilosc_produktow>883</Ilosc_produktow>
   </row>
   <row>
     <index>10244</index>
@@ -82038,7 +82038,7 @@
     <Kod_producenta>6957303824762</Kod_producenta>
     <Kod_ean>6957303824762.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>760</Ilosc_produktow>
+    <Ilosc_produktow>759</Ilosc_produktow>
   </row>
   <row>
     <index>10255</index>
@@ -82046,7 +82046,7 @@
     <Kod_producenta>6957303878758</Kod_producenta>
     <Kod_ean>6957303878758.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>187</Ilosc_produktow>
+    <Ilosc_produktow>186</Ilosc_produktow>
   </row>
   <row>
     <index>10256</index>
@@ -82142,7 +82142,7 @@
     <Kod_producenta>6956116748159</Kod_producenta>
     <Kod_ean>6956116748159.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2689</Ilosc_produktow>
+    <Ilosc_produktow>2679</Ilosc_produktow>
   </row>
   <row>
     <index>10268</index>
@@ -82358,7 +82358,7 @@
     <Kod_producenta>6932172647476</Kod_producenta>
     <Kod_ean>6932172647476.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>192</Ilosc_produktow>
+    <Ilosc_produktow>187</Ilosc_produktow>
   </row>
   <row>
     <index>10295</index>
@@ -83102,7 +83102,7 @@
     <Kod_producenta>10012370</Kod_producenta>
     <Kod_ean>4062859049490.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>94</Ilosc_produktow>
+    <Ilosc_produktow>91</Ilosc_produktow>
   </row>
   <row>
     <index>10388</index>
@@ -83206,7 +83206,7 @@
     <Kod_producenta>10013189</Kod_producenta>
     <Kod_ean>4062859237927.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>19</Ilosc_produktow>
+    <Ilosc_produktow>18</Ilosc_produktow>
   </row>
   <row>
     <index>10401</index>
@@ -83374,7 +83374,7 @@
     <Kod_producenta>10061621</Kod_producenta>
     <Kod_ean>4062859024725.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>93</Ilosc_produktow>
+    <Ilosc_produktow>92</Ilosc_produktow>
   </row>
   <row>
     <index>10422</index>
@@ -83646,7 +83646,7 @@
     <Kod_producenta>10011172</Kod_producenta>
     <Kod_ean>4250928698216.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>164</Ilosc_produktow>
+    <Ilosc_produktow>163</Ilosc_produktow>
   </row>
   <row>
     <index>10456</index>
@@ -83686,7 +83686,7 @@
     <Kod_producenta>10012357</Kod_producenta>
     <Kod_ean>4062859049360.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>27</Ilosc_produktow>
+    <Ilosc_produktow>26</Ilosc_produktow>
   </row>
   <row>
     <index>10461</index>
@@ -84014,7 +84014,7 @@
     <Kod_producenta>10062045</Kod_producenta>
     <Kod_ean>4062859110404.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>217</Ilosc_produktow>
+    <Ilosc_produktow>216</Ilosc_produktow>
   </row>
   <row>
     <index>10502</index>
@@ -84102,7 +84102,7 @@
     <Kod_producenta>10062612</Kod_producenta>
     <Kod_ean>4062859238214.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>47</Ilosc_produktow>
+    <Ilosc_produktow>46</Ilosc_produktow>
   </row>
   <row>
     <index>10513</index>
@@ -85326,7 +85326,7 @@
     <Kod_producenta>9145576275023</Kod_producenta>
     <Kod_ean>5907769320842.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>25</Ilosc_produktow>
+    <Ilosc_produktow>21</Ilosc_produktow>
   </row>
   <row>
     <index>10666</index>
@@ -85478,7 +85478,7 @@
     <Kod_producenta>9145576275238</Kod_producenta>
     <Kod_ean>5907769321047.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>15</Ilosc_produktow>
+    <Ilosc_produktow>12</Ilosc_produktow>
   </row>
   <row>
     <index>10685</index>
@@ -86470,7 +86470,7 @@
     <Kod_producenta>6957303803729</Kod_producenta>
     <Kod_ean>6957303803729.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>14</Ilosc_produktow>
+    <Ilosc_produktow>11</Ilosc_produktow>
   </row>
   <row>
     <index>10809</index>
@@ -87526,7 +87526,7 @@
     <Kod_producenta>10012024</Kod_producenta>
     <Kod_ean>4062859010933.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>77</Ilosc_produktow>
+    <Ilosc_produktow>76</Ilosc_produktow>
   </row>
   <row>
     <index>10941</index>
@@ -87542,7 +87542,7 @@
     <Kod_producenta>10012377</Kod_producenta>
     <Kod_ean>4062859049568.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>39</Ilosc_produktow>
+    <Ilosc_produktow>38</Ilosc_produktow>
   </row>
   <row>
     <index>10943</index>
@@ -87766,7 +87766,7 @@
     <Kod_producenta>10061760</Kod_producenta>
     <Kod_ean>4062859037992.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>6</Ilosc_produktow>
+    <Ilosc_produktow>5</Ilosc_produktow>
   </row>
   <row>
     <index>10971</index>
@@ -87878,7 +87878,7 @@
     <Kod_producenta>10013220</Kod_producenta>
     <Kod_ean>4062859242877.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>45</Ilosc_produktow>
+    <Ilosc_produktow>44</Ilosc_produktow>
   </row>
   <row>
     <index>10985</index>
@@ -87902,7 +87902,7 @@
     <Kod_producenta>10050135</Kod_producenta>
     <Kod_ean>4250928670823.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>262</Ilosc_produktow>
+    <Ilosc_produktow>261</Ilosc_produktow>
   </row>
   <row>
     <index>10988</index>
@@ -87910,7 +87910,7 @@
     <Kod_producenta>OH-100-KORKI</Kod_producenta>
     <Kod_ean>5902578455877.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>104</Ilosc_produktow>
+    <Ilosc_produktow>105</Ilosc_produktow>
   </row>
   <row>
     <index>10989</index>
@@ -88054,7 +88054,7 @@
     <Kod_producenta>10030813</Kod_producenta>
     <Kod_ean>4062859065988.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>29</Ilosc_produktow>
+    <Ilosc_produktow>28</Ilosc_produktow>
   </row>
   <row>
     <index>11007</index>
@@ -88350,7 +88350,7 @@
     <Kod_producenta>6956116726553</Kod_producenta>
     <Kod_ean>6956116726553.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>193</Ilosc_produktow>
+    <Ilosc_produktow>182</Ilosc_produktow>
   </row>
   <row>
     <index>11044</index>
@@ -88430,7 +88430,7 @@
     <Kod_producenta>6956116745059</Kod_producenta>
     <Kod_ean>6956116745059.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>31</Ilosc_produktow>
+    <Ilosc_produktow>26</Ilosc_produktow>
   </row>
   <row>
     <index>11054</index>
@@ -88462,7 +88462,7 @@
     <Kod_producenta>6941237100016</Kod_producenta>
     <Kod_ean>6941237100016.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1844</Ilosc_produktow>
+    <Ilosc_produktow>1843</Ilosc_produktow>
   </row>
   <row>
     <index>11058</index>
@@ -88550,7 +88550,7 @@
     <Kod_producenta>6941237110206</Kod_producenta>
     <Kod_ean>6941237110206.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>6041</Ilosc_produktow>
+    <Ilosc_produktow>6040</Ilosc_produktow>
   </row>
   <row>
     <index>11069</index>
@@ -88702,7 +88702,7 @@
     <Kod_producenta>5907769308581</Kod_producenta>
     <Kod_ean>5907769308581.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>22</Ilosc_produktow>
+    <Ilosc_produktow>21</Ilosc_produktow>
   </row>
   <row>
     <index>11088</index>
@@ -89214,7 +89214,7 @@
     <Kod_producenta>6941237102430</Kod_producenta>
     <Kod_ean>6941237102430.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1271</Ilosc_produktow>
+    <Ilosc_produktow>1270</Ilosc_produktow>
   </row>
   <row>
     <index>11152</index>
@@ -90238,7 +90238,7 @@
     <Kod_producenta>5907769312243</Kod_producenta>
     <Kod_ean>5907769312243.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>410</Ilosc_produktow>
+    <Ilosc_produktow>409</Ilosc_produktow>
   </row>
   <row>
     <index>11280</index>
@@ -90270,7 +90270,7 @@
     <Kod_producenta>5907769312281</Kod_producenta>
     <Kod_ean>5907769312281.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>64</Ilosc_produktow>
+    <Ilosc_produktow>62</Ilosc_produktow>
   </row>
   <row>
     <index>11284</index>
@@ -90342,7 +90342,7 @@
     <Kod_producenta>5907769312380</Kod_producenta>
     <Kod_ean>5907769312380.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>276</Ilosc_produktow>
+    <Ilosc_produktow>275</Ilosc_produktow>
   </row>
   <row>
     <index>11293</index>
@@ -90518,7 +90518,7 @@
     <Kod_producenta>5907769312663</Kod_producenta>
     <Kod_ean>5907769312663.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>232</Ilosc_produktow>
+    <Ilosc_produktow>230</Ilosc_produktow>
   </row>
   <row>
     <index>11315</index>
@@ -90526,7 +90526,7 @@
     <Kod_producenta>5907769312670</Kod_producenta>
     <Kod_ean>5907769312670.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>242</Ilosc_produktow>
+    <Ilosc_produktow>241</Ilosc_produktow>
   </row>
   <row>
     <index>11316</index>
@@ -90534,7 +90534,7 @@
     <Kod_producenta>5907769312687</Kod_producenta>
     <Kod_ean>5907769312687.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>395</Ilosc_produktow>
+    <Ilosc_produktow>394</Ilosc_produktow>
   </row>
   <row>
     <index>11317</index>
@@ -90550,7 +90550,7 @@
     <Kod_producenta>5907769312700</Kod_producenta>
     <Kod_ean>5907769312700.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>72</Ilosc_produktow>
+    <Ilosc_produktow>69</Ilosc_produktow>
   </row>
   <row>
     <index>11319</index>
@@ -90590,7 +90590,7 @@
     <Kod_producenta>5907769312755</Kod_producenta>
     <Kod_ean>5907769312755.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>99</Ilosc_produktow>
+    <Ilosc_produktow>94</Ilosc_produktow>
   </row>
   <row>
     <index>11324</index>
@@ -90606,7 +90606,7 @@
     <Kod_producenta>5907769312779</Kod_producenta>
     <Kod_ean>5907769312779.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>97</Ilosc_produktow>
+    <Ilosc_produktow>92</Ilosc_produktow>
   </row>
   <row>
     <index>11326</index>
@@ -90638,7 +90638,7 @@
     <Kod_producenta>5907769312816</Kod_producenta>
     <Kod_ean>5907769312816.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>167</Ilosc_produktow>
+    <Ilosc_produktow>166</Ilosc_produktow>
   </row>
   <row>
     <index>11330</index>
@@ -90726,7 +90726,7 @@
     <Kod_producenta>5907769312939</Kod_producenta>
     <Kod_ean>5907769312939.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>58</Ilosc_produktow>
+    <Ilosc_produktow>57</Ilosc_produktow>
   </row>
   <row>
     <index>11341</index>
@@ -90798,7 +90798,7 @@
     <Kod_producenta>5907769313028</Kod_producenta>
     <Kod_ean>5907769313028.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>313</Ilosc_produktow>
+    <Ilosc_produktow>312</Ilosc_produktow>
   </row>
   <row>
     <index>11350</index>
@@ -90894,7 +90894,7 @@
     <Kod_producenta>5907769313165</Kod_producenta>
     <Kod_ean>5907769313165.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>66</Ilosc_produktow>
+    <Ilosc_produktow>65</Ilosc_produktow>
   </row>
   <row>
     <index>11362</index>
@@ -91086,7 +91086,7 @@
     <Kod_producenta>5907769313479</Kod_producenta>
     <Kod_ean>5907769313479.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>121</Ilosc_produktow>
+    <Ilosc_produktow>119</Ilosc_produktow>
   </row>
   <row>
     <index>11386</index>
@@ -91094,7 +91094,7 @@
     <Kod_producenta>5907769313486</Kod_producenta>
     <Kod_ean>5907769313486.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>76</Ilosc_produktow>
+    <Ilosc_produktow>75</Ilosc_produktow>
   </row>
   <row>
     <index>11387</index>
@@ -91142,7 +91142,7 @@
     <Kod_producenta>5907769313554</Kod_producenta>
     <Kod_ean>5907769313554.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>61</Ilosc_produktow>
+    <Ilosc_produktow>56</Ilosc_produktow>
   </row>
   <row>
     <index>11393</index>
@@ -91198,7 +91198,7 @@
     <Kod_producenta>5907769313660</Kod_producenta>
     <Kod_ean>5907769313660.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>169</Ilosc_produktow>
+    <Ilosc_produktow>168</Ilosc_produktow>
   </row>
   <row>
     <index>11400</index>
@@ -91358,7 +91358,7 @@
     <Kod_producenta>5907769313950</Kod_producenta>
     <Kod_ean>5907769313950.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>269</Ilosc_produktow>
+    <Ilosc_produktow>268</Ilosc_produktow>
   </row>
   <row>
     <index>11420</index>
@@ -91366,7 +91366,7 @@
     <Kod_producenta>5907769313967</Kod_producenta>
     <Kod_ean>5907769313967.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>275</Ilosc_produktow>
+    <Ilosc_produktow>273</Ilosc_produktow>
   </row>
   <row>
     <index>11421</index>
@@ -91454,7 +91454,7 @@
     <Kod_producenta>5907769314087</Kod_producenta>
     <Kod_ean>5907769314087.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>99</Ilosc_produktow>
+    <Ilosc_produktow>98</Ilosc_produktow>
   </row>
   <row>
     <index>11432</index>
@@ -91510,7 +91510,7 @@
     <Kod_producenta>5907769314155</Kod_producenta>
     <Kod_ean>5907769314155.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>227</Ilosc_produktow>
+    <Ilosc_produktow>226</Ilosc_produktow>
   </row>
   <row>
     <index>11439</index>
@@ -91590,7 +91590,7 @@
     <Kod_producenta>5907769314315</Kod_producenta>
     <Kod_ean>5907769314315.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>611</Ilosc_produktow>
+    <Ilosc_produktow>610</Ilosc_produktow>
   </row>
   <row>
     <index>11449</index>
@@ -91758,7 +91758,7 @@
     <Kod_producenta>6932172628796</Kod_producenta>
     <Kod_ean>6932172628796.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>614</Ilosc_produktow>
+    <Ilosc_produktow>613</Ilosc_produktow>
   </row>
   <row>
     <index>11470</index>
@@ -91942,7 +91942,7 @@
     <Kod_producenta>6932172652760</Kod_producenta>
     <Kod_ean>6932172652760.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>99</Ilosc_produktow>
+    <Ilosc_produktow>98</Ilosc_produktow>
   </row>
   <row>
     <index>11493</index>
@@ -91990,7 +91990,7 @@
     <Kod_producenta>6932112106308</Kod_producenta>
     <Kod_ean>6932112106308.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>59</Ilosc_produktow>
+    <Ilosc_produktow>57</Ilosc_produktow>
   </row>
   <row>
     <index>11499</index>
@@ -93870,7 +93870,7 @@
     <Kod_producenta>841471</Kod_producenta>
     <Kod_ean>8711369841471.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>1067</Ilosc_produktow>
+    <Ilosc_produktow>1066</Ilosc_produktow>
   </row>
   <row>
     <index>11734</index>
@@ -94230,7 +94230,7 @@
     <Kod_producenta>635612</Kod_producenta>
     <Kod_ean>8711369635612.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>21</Ilosc_produktow>
+    <Ilosc_produktow>20</Ilosc_produktow>
   </row>
   <row>
     <index>11779</index>
@@ -94310,7 +94310,7 @@
     <Kod_producenta>1026BB06D0111</Kod_producenta>
     <Kod_ean>3550190504569.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>24</Ilosc_produktow>
+    <Ilosc_produktow>22</Ilosc_produktow>
   </row>
   <row>
     <index>11789</index>
@@ -95654,7 +95654,7 @@
     <Kod_producenta>6956116766993</Kod_producenta>
     <Kod_ean>6956116766993.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>371</Ilosc_produktow>
+    <Ilosc_produktow>370</Ilosc_produktow>
   </row>
   <row>
     <index>11957</index>
@@ -95710,7 +95710,7 @@
     <Kod_producenta>8806094912128</Kod_producenta>
     <Kod_ean>8806094912128.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>702</Ilosc_produktow>
+    <Ilosc_produktow>700</Ilosc_produktow>
   </row>
   <row>
     <index>11964</index>
@@ -95742,7 +95742,7 @@
     <Kod_producenta>6941237112569</Kod_producenta>
     <Kod_ean>6941237112569.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>135</Ilosc_produktow>
+    <Ilosc_produktow>134</Ilosc_produktow>
   </row>
   <row>
     <index>11968</index>
@@ -96230,7 +96230,7 @@
     <Kod_producenta>6956116795023</Kod_producenta>
     <Kod_ean>6956116795023.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>603</Ilosc_produktow>
+    <Ilosc_produktow>602</Ilosc_produktow>
   </row>
   <row>
     <index>12029</index>
@@ -96318,7 +96318,7 @@
     <Kod_producenta>6941876215485</Kod_producenta>
     <Kod_ean>6941876215485.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>125</Ilosc_produktow>
+    <Ilosc_produktow>124</Ilosc_produktow>
   </row>
   <row>
     <index>12040</index>
@@ -96550,7 +96550,7 @@
     <Kod_producenta>6932172657253</Kod_producenta>
     <Kod_ean>6932172657253.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>3013</Ilosc_produktow>
+    <Ilosc_produktow>3010</Ilosc_produktow>
   </row>
   <row>
     <index>12069</index>
@@ -96566,7 +96566,7 @@
     <Kod_producenta>6932172657239</Kod_producenta>
     <Kod_ean>6932172657239.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>307</Ilosc_produktow>
+    <Ilosc_produktow>305</Ilosc_produktow>
   </row>
   <row>
     <index>12071</index>
@@ -96934,7 +96934,7 @@
     <Kod_producenta>10012276</Kod_producenta>
     <Kod_ean>4062859033895.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>44</Ilosc_produktow>
+    <Ilosc_produktow>43</Ilosc_produktow>
   </row>
   <row>
     <index>12117</index>
@@ -96950,7 +96950,7 @@
     <Kod_producenta>10012373</Kod_producenta>
     <Kod_ean>4062859049520.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>8</Ilosc_produktow>
+    <Ilosc_produktow>6</Ilosc_produktow>
   </row>
   <row>
     <index>12119</index>
@@ -97374,7 +97374,7 @@
     <Kod_producenta>10062429</Kod_producenta>
     <Kod_ean>4062859202260.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>4</Ilosc_produktow>
+    <Ilosc_produktow>3</Ilosc_produktow>
   </row>
   <row>
     <index>12172</index>
@@ -98006,7 +98006,7 @@
     <Kod_producenta>10050132</Kod_producenta>
     <Kod_ean>4250928670793.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>35</Ilosc_produktow>
+    <Ilosc_produktow>34</Ilosc_produktow>
   </row>
   <row>
     <index>12251</index>
@@ -98406,7 +98406,7 @@
     <Kod_producenta>10040576</Kod_producenta>
     <Kod_ean>4062859155757.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>18</Ilosc_produktow>
+    <Ilosc_produktow>17</Ilosc_produktow>
   </row>
   <row>
     <index>12301</index>
@@ -98558,7 +98558,7 @@
     <Kod_producenta>10062181</Kod_producenta>
     <Kod_ean>4062859158055.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>286</Ilosc_produktow>
+    <Ilosc_produktow>285</Ilosc_produktow>
   </row>
   <row>
     <index>12320</index>
@@ -98854,7 +98854,7 @@
     <Kod_producenta>10062185</Kod_producenta>
     <Kod_ean>4062859160317.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>42</Ilosc_produktow>
+    <Ilosc_produktow>41</Ilosc_produktow>
   </row>
   <row>
     <index>12357</index>
@@ -99070,7 +99070,7 @@
     <Kod_producenta>10030921</Kod_producenta>
     <Kod_ean>4062859083791.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>134</Ilosc_produktow>
+    <Ilosc_produktow>133</Ilosc_produktow>
   </row>
   <row>
     <index>12384</index>
@@ -99918,7 +99918,7 @@
     <Kod_producenta>855645</Kod_producenta>
     <Kod_ean>8711369855645.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>754</Ilosc_produktow>
+    <Ilosc_produktow>753</Ilosc_produktow>
   </row>
   <row>
     <index>12490</index>
@@ -99934,7 +99934,7 @@
     <Kod_producenta>237922</Kod_producenta>
     <Kod_ean>8711369237922.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>659</Ilosc_produktow>
+    <Ilosc_produktow>658</Ilosc_produktow>
   </row>
   <row>
     <index>12492</index>
@@ -100614,7 +100614,7 @@
     <Kod_producenta>238868</Kod_producenta>
     <Kod_ean>8711369238868.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>78</Ilosc_produktow>
+    <Ilosc_produktow>77</Ilosc_produktow>
   </row>
   <row>
     <index>12577</index>
@@ -102526,7 +102526,7 @@
     <Kod_producenta>443033</Kod_producenta>
     <Kod_ean>8711369443033.0</Kod_ean>
     <Termin_wysylki>48 godzin</Termin_wysylki>
-    <Ilosc_produktow>447</Ilosc_produktow>
+    <Ilosc_produktow>446</Ilosc_produktow>
   </row>
   <row>
     <index>12816</index>
@@ -103310,7 +103310,7 @@
     <Kod_producenta>10040578</Kod_producenta>
     <Kod_ean>4062859155771.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>10</Ilosc_produktow>
+    <Ilosc_produktow>9</Ilosc_produktow>
   </row>
   <row>
     <index>12914</index>
@@ -103382,7 +103382,7 @@
     <Kod_producenta>10040887</Kod_producenta>
     <Kod_ean>4062859284433.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>13</Ilosc_produktow>
+    <Ilosc_produktow>12</Ilosc_produktow>
   </row>
   <row>
     <index>12923</index>
@@ -104518,7 +104518,7 @@
     <Kod_producenta>10031420</Kod_producenta>
     <Kod_ean>4062859274724.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>17</Ilosc_produktow>
+    <Ilosc_produktow>16</Ilosc_produktow>
   </row>
   <row>
     <index>13065</index>
@@ -104558,7 +104558,7 @@
     <Kod_producenta>10040749</Kod_producenta>
     <Kod_ean>4062859235695.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>18</Ilosc_produktow>
+    <Ilosc_produktow>16</Ilosc_produktow>
   </row>
   <row>
     <index>13070</index>
@@ -104590,7 +104590,7 @@
     <Kod_producenta>10040782</Kod_producenta>
     <Kod_ean>4062859247438.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>53</Ilosc_produktow>
+    <Ilosc_produktow>52</Ilosc_produktow>
   </row>
   <row>
     <index>13074</index>
@@ -104838,7 +104838,7 @@
     <Kod_producenta>10250776</Kod_producenta>
     <Kod_ean>4062859234322.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>58</Ilosc_produktow>
+    <Ilosc_produktow>57</Ilosc_produktow>
   </row>
   <row>
     <index>13105</index>
@@ -104934,7 +104934,7 @@
     <Kod_producenta>10031282</Kod_producenta>
     <Kod_ean>4062859240019.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>53</Ilosc_produktow>
+    <Ilosc_produktow>52</Ilosc_produktow>
   </row>
   <row>
     <index>13117</index>
@@ -105134,7 +105134,7 @@
     <Kod_producenta>7324</Kod_producenta>
     <Kod_ean>5902578456089.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>11</Ilosc_produktow>
+    <Ilosc_produktow>5</Ilosc_produktow>
   </row>
   <row>
     <index>13142</index>
@@ -105470,7 +105470,7 @@
     <Kod_producenta>10062540</Kod_producenta>
     <Kod_ean>4062859233707.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>56</Ilosc_produktow>
+    <Ilosc_produktow>55</Ilosc_produktow>
   </row>
   <row>
     <index>13184</index>
@@ -105942,7 +105942,7 @@
     <Kod_producenta>6932112104168</Kod_producenta>
     <Kod_ean>6932112104168.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>129</Ilosc_produktow>
+    <Ilosc_produktow>123</Ilosc_produktow>
   </row>
   <row>
     <index>13243</index>
@@ -106198,7 +106198,7 @@
     <Kod_producenta>6932172625474</Kod_producenta>
     <Kod_ean>6932172625474.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>111</Ilosc_produktow>
+    <Ilosc_produktow>110</Ilosc_produktow>
   </row>
   <row>
     <index>13275</index>
@@ -106374,7 +106374,7 @@
     <Kod_producenta>6957303864102</Kod_producenta>
     <Kod_ean>6957303864102.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>72</Ilosc_produktow>
+    <Ilosc_produktow>51</Ilosc_produktow>
   </row>
   <row>
     <index>13297</index>
@@ -107102,7 +107102,7 @@
     <Kod_producenta>6932172641429</Kod_producenta>
     <Kod_ean>6932172641429.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>14766</Ilosc_produktow>
+    <Ilosc_produktow>14755</Ilosc_produktow>
   </row>
   <row>
     <index>13388</index>
@@ -107150,7 +107150,7 @@
     <Kod_producenta>6974230882719</Kod_producenta>
     <Kod_ean>6974230882719.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>22</Ilosc_produktow>
+    <Ilosc_produktow>20</Ilosc_produktow>
   </row>
   <row>
     <index>13394</index>
@@ -107478,7 +107478,7 @@
     <Kod_producenta>5907769313097</Kod_producenta>
     <Kod_ean>5907769313097.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1016</Ilosc_produktow>
+    <Ilosc_produktow>1005</Ilosc_produktow>
   </row>
   <row>
     <index>13435</index>
@@ -107542,7 +107542,7 @@
     <Kod_producenta>5907769314032</Kod_producenta>
     <Kod_ean>5907769314032.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>207</Ilosc_produktow>
+    <Ilosc_produktow>206</Ilosc_produktow>
   </row>
   <row>
     <index>13443</index>
@@ -107558,7 +107558,7 @@
     <Kod_producenta>5907769314193</Kod_producenta>
     <Kod_ean>5907769314193.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>304</Ilosc_produktow>
+    <Ilosc_produktow>303</Ilosc_produktow>
   </row>
   <row>
     <index>13445</index>
@@ -107566,7 +107566,7 @@
     <Kod_producenta>5907769314209</Kod_producenta>
     <Kod_ean>5907769314209.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>527</Ilosc_produktow>
+    <Ilosc_produktow>526</Ilosc_produktow>
   </row>
   <row>
     <index>13446</index>
@@ -107606,7 +107606,7 @@
     <Kod_producenta>6932172657444</Kod_producenta>
     <Kod_ean>6932172657444.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>649</Ilosc_produktow>
+    <Ilosc_produktow>648</Ilosc_produktow>
   </row>
   <row>
     <index>13451</index>
@@ -107814,7 +107814,7 @@
     <Kod_producenta>6932172655600</Kod_producenta>
     <Kod_ean>6932172655600.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>107</Ilosc_produktow>
+    <Ilosc_produktow>106</Ilosc_produktow>
   </row>
   <row>
     <index>13477</index>
@@ -107822,7 +107822,7 @@
     <Kod_producenta>5907769364648</Kod_producenta>
     <Kod_ean>5907769364648.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>90</Ilosc_produktow>
+    <Ilosc_produktow>89</Ilosc_produktow>
   </row>
   <row>
     <index>13478</index>
@@ -107862,7 +107862,7 @@
     <Kod_producenta>5907769362088</Kod_producenta>
     <Kod_ean>5907769362088.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>56</Ilosc_produktow>
+    <Ilosc_produktow>55</Ilosc_produktow>
   </row>
   <row>
     <index>13483</index>
@@ -108574,7 +108574,7 @@
     <Kod_producenta>6974316283249</Kod_producenta>
     <Kod_ean>6974316283249.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>208</Ilosc_produktow>
+    <Ilosc_produktow>207</Ilosc_produktow>
   </row>
   <row>
     <index>13572</index>
@@ -108790,7 +108790,7 @@
     <Kod_producenta>6976625332823</Kod_producenta>
     <Kod_ean>6976625332823.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>273</Ilosc_produktow>
+    <Ilosc_produktow>272</Ilosc_produktow>
   </row>
   <row>
     <index>13599</index>
@@ -108798,7 +108798,7 @@
     <Kod_producenta>6976625332687</Kod_producenta>
     <Kod_ean>6976625332687.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1399</Ilosc_produktow>
+    <Ilosc_produktow>1397</Ilosc_produktow>
   </row>
   <row>
     <index>13600</index>
@@ -108806,7 +108806,7 @@
     <Kod_producenta>6976625332816</Kod_producenta>
     <Kod_ean>6976625332816.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1518</Ilosc_produktow>
+    <Ilosc_produktow>1508</Ilosc_produktow>
   </row>
   <row>
     <index>13601</index>
@@ -109334,7 +109334,7 @@
     <Kod_producenta>6956116710736</Kod_producenta>
     <Kod_ean>6956116710736.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>77</Ilosc_produktow>
+    <Ilosc_produktow>74</Ilosc_produktow>
   </row>
   <row>
     <index>13667</index>
@@ -109526,7 +109526,7 @@
     <Kod_producenta>6957303816392</Kod_producenta>
     <Kod_ean>6957303816392.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>44</Ilosc_produktow>
+    <Ilosc_produktow>43</Ilosc_produktow>
   </row>
   <row>
     <index>13691</index>
@@ -109798,7 +109798,7 @@
     <Kod_producenta>6956116723859</Kod_producenta>
     <Kod_ean>6956116723859.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>168</Ilosc_produktow>
+    <Ilosc_produktow>167</Ilosc_produktow>
   </row>
   <row>
     <index>13725</index>
@@ -109894,7 +109894,7 @@
     <Kod_producenta>6956116722937</Kod_producenta>
     <Kod_ean>6956116722937.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>16</Ilosc_produktow>
+    <Ilosc_produktow>13</Ilosc_produktow>
   </row>
   <row>
     <index>13737</index>
@@ -110206,7 +110206,7 @@
     <Kod_producenta>6956116729325</Kod_producenta>
     <Kod_ean>6956116729325.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>708</Ilosc_produktow>
+    <Ilosc_produktow>704</Ilosc_produktow>
   </row>
   <row>
     <index>13776</index>
@@ -110214,7 +110214,7 @@
     <Kod_producenta>6956116717452</Kod_producenta>
     <Kod_ean>6956116717452.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>204</Ilosc_produktow>
+    <Ilosc_produktow>200</Ilosc_produktow>
   </row>
   <row>
     <index>13777</index>
@@ -110382,7 +110382,7 @@
     <Kod_producenta>6956116728830</Kod_producenta>
     <Kod_ean>6956116728830.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1490</Ilosc_produktow>
+    <Ilosc_produktow>1489</Ilosc_produktow>
   </row>
   <row>
     <index>13798</index>
@@ -111022,7 +111022,7 @@
     <Kod_producenta>TH-216-MIX</Kod_producenta>
     <Kod_ean>5902578456133.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>7</Ilosc_produktow>
+    <Ilosc_produktow>6</Ilosc_produktow>
   </row>
   <row>
     <index>13878</index>
@@ -111078,7 +111078,7 @@
     <Kod_producenta>5907769314216</Kod_producenta>
     <Kod_ean>5907769314216.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2347</Ilosc_produktow>
+    <Ilosc_produktow>2345</Ilosc_produktow>
   </row>
   <row>
     <index>13885</index>
@@ -111086,7 +111086,7 @@
     <Kod_producenta>5907769314223</Kod_producenta>
     <Kod_ean>5907769314223.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>432</Ilosc_produktow>
+    <Ilosc_produktow>427</Ilosc_produktow>
   </row>
   <row>
     <index>13886</index>
@@ -111150,7 +111150,7 @@
     <Kod_producenta>5907769364662</Kod_producenta>
     <Kod_ean>5907769364662.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>199</Ilosc_produktow>
+    <Ilosc_produktow>198</Ilosc_produktow>
   </row>
   <row>
     <index>13894</index>
@@ -111238,7 +111238,7 @@
     <Kod_producenta>6957303878925</Kod_producenta>
     <Kod_ean>6957303878925.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>54</Ilosc_produktow>
+    <Ilosc_produktow>53</Ilosc_produktow>
   </row>
   <row>
     <index>13905</index>
@@ -111270,7 +111270,7 @@
     <Kod_producenta>6957303815401</Kod_producenta>
     <Kod_ean>6957303815401.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>365</Ilosc_produktow>
+    <Ilosc_produktow>364</Ilosc_produktow>
   </row>
   <row>
     <index>13909</index>
@@ -111342,7 +111342,7 @@
     <Kod_producenta>6957303865178</Kod_producenta>
     <Kod_ean>6957303865178.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>208</Ilosc_produktow>
+    <Ilosc_produktow>206</Ilosc_produktow>
   </row>
   <row>
     <index>13918</index>
@@ -111422,7 +111422,7 @@
     <Kod_producenta>6957303872558</Kod_producenta>
     <Kod_ean>6957303872558.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>385</Ilosc_produktow>
+    <Ilosc_produktow>381</Ilosc_produktow>
   </row>
   <row>
     <index>13928</index>
@@ -111550,7 +111550,7 @@
     <Kod_producenta>6932172648718</Kod_producenta>
     <Kod_ean>6932172648718.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>511</Ilosc_produktow>
+    <Ilosc_produktow>504</Ilosc_produktow>
   </row>
   <row>
     <index>13944</index>
@@ -111606,7 +111606,7 @@
     <Kod_producenta>6976625332861</Kod_producenta>
     <Kod_ean>6976625332861.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>59</Ilosc_produktow>
+    <Ilosc_produktow>58</Ilosc_produktow>
   </row>
   <row>
     <index>13951</index>
@@ -111678,7 +111678,7 @@
     <Kod_producenta>6976625334414</Kod_producenta>
     <Kod_ean>6976625334414.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1476</Ilosc_produktow>
+    <Ilosc_produktow>1473</Ilosc_produktow>
   </row>
   <row>
     <index>13960</index>
@@ -111686,7 +111686,7 @@
     <Kod_producenta>6976625334407</Kod_producenta>
     <Kod_ean>6976625334407.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1789</Ilosc_produktow>
+    <Ilosc_produktow>1788</Ilosc_produktow>
   </row>
   <row>
     <index>13961</index>
@@ -111774,7 +111774,7 @@
     <Kod_producenta>5907769313523</Kod_producenta>
     <Kod_ean>5907769313523.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>80</Ilosc_produktow>
+    <Ilosc_produktow>78</Ilosc_produktow>
   </row>
   <row>
     <index>13972</index>
@@ -111790,7 +111790,7 @@
     <Kod_producenta>5907769313684</Kod_producenta>
     <Kod_ean>5907769313684.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>370</Ilosc_produktow>
+    <Ilosc_produktow>369</Ilosc_produktow>
   </row>
   <row>
     <index>13974</index>
@@ -111814,7 +111814,7 @@
     <Kod_producenta>5907769314162</Kod_producenta>
     <Kod_ean>5907769314162.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>74</Ilosc_produktow>
+    <Ilosc_produktow>70</Ilosc_produktow>
   </row>
   <row>
     <index>13977</index>
@@ -111830,7 +111830,7 @@
     <Kod_producenta>6932172648763</Kod_producenta>
     <Kod_ean>6932172648763.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1117</Ilosc_produktow>
+    <Ilosc_produktow>1115</Ilosc_produktow>
   </row>
   <row>
     <index>13979</index>
@@ -111870,7 +111870,7 @@
     <Kod_producenta>5907769364655</Kod_producenta>
     <Kod_ean>5907769364655.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>26</Ilosc_produktow>
+    <Ilosc_produktow>24</Ilosc_produktow>
   </row>
   <row>
     <index>13984</index>
@@ -112070,7 +112070,7 @@
     <Kod_producenta>6956116713256</Kod_producenta>
     <Kod_ean>6956116713256.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>10958</Ilosc_produktow>
+    <Ilosc_produktow>10929</Ilosc_produktow>
   </row>
   <row>
     <index>14009</index>
@@ -112126,7 +112126,7 @@
     <Kod_producenta>6941876233403</Kod_producenta>
     <Kod_ean>6941876233403.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>5</Ilosc_produktow>
+    <Ilosc_produktow>4</Ilosc_produktow>
   </row>
   <row>
     <index>14016</index>
@@ -112182,7 +112182,7 @@
     <Kod_producenta>6932172632151</Kod_producenta>
     <Kod_ean>6932172632151.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>41</Ilosc_produktow>
+    <Ilosc_produktow>40</Ilosc_produktow>
   </row>
   <row>
     <index>14023</index>
@@ -112230,7 +112230,7 @@
     <Kod_producenta>5907769364402</Kod_producenta>
     <Kod_ean>5907769364402.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>658</Ilosc_produktow>
+    <Ilosc_produktow>655</Ilosc_produktow>
   </row>
   <row>
     <index>14029</index>
@@ -112350,7 +112350,7 @@
     <Kod_producenta>5907769366093</Kod_producenta>
     <Kod_ean>5907769366093.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>4692</Ilosc_produktow>
+    <Ilosc_produktow>4691</Ilosc_produktow>
   </row>
   <row>
     <index>14044</index>
@@ -112782,7 +112782,7 @@
     <Kod_producenta>6932172663483</Kod_producenta>
     <Kod_ean>6932172663483.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>400</Ilosc_produktow>
+    <Ilosc_produktow>394</Ilosc_produktow>
   </row>
   <row>
     <index>14098</index>
@@ -113102,7 +113102,7 @@
     <Kod_producenta>TB.260.C.30.STYR</Kod_producenta>
     <Kod_ean>5902578456188.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>137</Ilosc_produktow>
+    <Ilosc_produktow>135</Ilosc_produktow>
   </row>
   <row>
     <index>14138</index>
@@ -113110,7 +113110,7 @@
     <Kod_producenta>6957303833917</Kod_producenta>
     <Kod_ean>6957303833917.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>114</Ilosc_produktow>
+    <Ilosc_produktow>113</Ilosc_produktow>
   </row>
   <row>
     <index>14139</index>
@@ -113174,7 +113174,7 @@
     <Kod_producenta>6976625330423</Kod_producenta>
     <Kod_ean>6976625330423.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>53</Ilosc_produktow>
+    <Ilosc_produktow>52</Ilosc_produktow>
   </row>
   <row>
     <index>14147</index>
@@ -113390,7 +113390,7 @@
     <Kod_producenta>6976625332809</Kod_producenta>
     <Kod_ean>6976625332809.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>894</Ilosc_produktow>
+    <Ilosc_produktow>892</Ilosc_produktow>
   </row>
   <row>
     <index>14174</index>
@@ -113614,7 +113614,7 @@
     <Kod_producenta>6976625333974</Kod_producenta>
     <Kod_ean>6976625333974.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>4616</Ilosc_produktow>
+    <Ilosc_produktow>4615</Ilosc_produktow>
   </row>
   <row>
     <index>14202</index>
@@ -113942,7 +113942,7 @@
     <Kod_producenta>6942227137777</Kod_producenta>
     <Kod_ean>6942227137777.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>10</Ilosc_produktow>
+    <Ilosc_produktow>8</Ilosc_produktow>
   </row>
   <row>
     <index>14243</index>
@@ -114278,7 +114278,7 @@
     <Kod_producenta>6942227138194</Kod_producenta>
     <Kod_ean>6942227138194.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>3</Ilosc_produktow>
+    <Ilosc_produktow>2</Ilosc_produktow>
   </row>
   <row>
     <index>14285</index>
@@ -114334,7 +114334,7 @@
     <Kod_producenta>6942227138262</Kod_producenta>
     <Kod_ean>6942227138262.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>942</Ilosc_produktow>
+    <Ilosc_produktow>941</Ilosc_produktow>
   </row>
   <row>
     <index>14292</index>
@@ -114358,7 +114358,7 @@
     <Kod_producenta>6942227138293</Kod_producenta>
     <Kod_ean>6942227138293.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>858</Ilosc_produktow>
+    <Ilosc_produktow>857</Ilosc_produktow>
   </row>
   <row>
     <index>14295</index>
@@ -114686,7 +114686,7 @@
     <Kod_producenta>5907769313721</Kod_producenta>
     <Kod_ean>5907769313721.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>323</Ilosc_produktow>
+    <Ilosc_produktow>321</Ilosc_produktow>
   </row>
   <row>
     <index>14336</index>
@@ -114734,7 +114734,7 @@
     <Kod_producenta>5907769361913</Kod_producenta>
     <Kod_ean>5907769361913.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>22</Ilosc_produktow>
+    <Ilosc_produktow>21</Ilosc_produktow>
   </row>
   <row>
     <index>14342</index>
@@ -115142,7 +115142,7 @@
     <Kod_producenta>8018417264511</Kod_producenta>
     <Kod_ean>8018417264511.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>31</Ilosc_produktow>
+    <Ilosc_produktow>28</Ilosc_produktow>
   </row>
   <row>
     <index>14393</index>
@@ -116742,7 +116742,7 @@
     <Kod_producenta>6976625334247</Kod_producenta>
     <Kod_ean>6976625334247.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>4177</Ilosc_produktow>
+    <Ilosc_produktow>4176</Ilosc_produktow>
   </row>
   <row>
     <index>14593</index>
@@ -116758,7 +116758,7 @@
     <Kod_producenta>6976625333936</Kod_producenta>
     <Kod_ean>6976625333936.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>802</Ilosc_produktow>
+    <Ilosc_produktow>801</Ilosc_produktow>
   </row>
   <row>
     <index>14595</index>
@@ -116878,7 +116878,7 @@
     <Kod_producenta>6956116734589</Kod_producenta>
     <Kod_ean>6956116734589.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>15</Ilosc_produktow>
+    <Ilosc_produktow>10</Ilosc_produktow>
   </row>
   <row>
     <index>14610</index>
@@ -117510,7 +117510,7 @@
     <Kod_producenta>6976625333783</Kod_producenta>
     <Kod_ean>6976625333783.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>4436</Ilosc_produktow>
+    <Ilosc_produktow>4434</Ilosc_produktow>
   </row>
   <row>
     <index>14689</index>
@@ -117518,7 +117518,7 @@
     <Kod_producenta>5907769373091</Kod_producenta>
     <Kod_ean>5907769373091.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>77</Ilosc_produktow>
+    <Ilosc_produktow>76</Ilosc_produktow>
   </row>
   <row>
     <index>14690</index>
@@ -117534,7 +117534,7 @@
     <Kod_producenta>5907769373114</Kod_producenta>
     <Kod_ean>5907769373114.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>13</Ilosc_produktow>
+    <Ilosc_produktow>11</Ilosc_produktow>
   </row>
   <row>
     <index>14692</index>
@@ -117654,7 +117654,7 @@
     <Kod_producenta>5907769373268</Kod_producenta>
     <Kod_ean>5907769373268.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>174</Ilosc_produktow>
+    <Ilosc_produktow>173</Ilosc_produktow>
   </row>
   <row>
     <index>14707</index>
@@ -117966,7 +117966,7 @@
     <Kod_producenta>5907769373688</Kod_producenta>
     <Kod_ean>5907769373688.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>84</Ilosc_produktow>
+    <Ilosc_produktow>83</Ilosc_produktow>
   </row>
   <row>
     <index>14746</index>
@@ -118038,7 +118038,7 @@
     <Kod_producenta>5907769373770</Kod_producenta>
     <Kod_ean>5907769373770.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>141</Ilosc_produktow>
+    <Ilosc_produktow>140</Ilosc_produktow>
   </row>
   <row>
     <index>14755</index>
@@ -118174,7 +118174,7 @@
     <Kod_producenta>5907769373947</Kod_producenta>
     <Kod_ean>5907769373947.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>139</Ilosc_produktow>
+    <Ilosc_produktow>138</Ilosc_produktow>
   </row>
   <row>
     <index>14772</index>
@@ -118182,7 +118182,7 @@
     <Kod_producenta>5907769373954</Kod_producenta>
     <Kod_ean>5907769373954.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>88</Ilosc_produktow>
+    <Ilosc_produktow>87</Ilosc_produktow>
   </row>
   <row>
     <index>14773</index>
@@ -118294,7 +118294,7 @@
     <Kod_producenta>5907769374098</Kod_producenta>
     <Kod_ean>5907769374098.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>79</Ilosc_produktow>
+    <Ilosc_produktow>78</Ilosc_produktow>
   </row>
   <row>
     <index>14787</index>
@@ -118374,7 +118374,7 @@
     <Kod_producenta>5907769374197</Kod_producenta>
     <Kod_ean>5907769374197.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>85</Ilosc_produktow>
+    <Ilosc_produktow>84</Ilosc_produktow>
   </row>
   <row>
     <index>14797</index>
@@ -118470,7 +118470,7 @@
     <Kod_producenta>5907769374319</Kod_producenta>
     <Kod_ean>5907769374319.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>50</Ilosc_produktow>
+    <Ilosc_produktow>47</Ilosc_produktow>
   </row>
   <row>
     <index>14809</index>
@@ -118718,7 +118718,7 @@
     <Kod_producenta>8596311206221</Kod_producenta>
     <Kod_ean>8596311206221.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>269</Ilosc_produktow>
+    <Ilosc_produktow>267</Ilosc_produktow>
   </row>
   <row>
     <index>14840</index>
@@ -118998,7 +118998,7 @@
     <Kod_producenta>8809971234658</Kod_producenta>
     <Kod_ean>8809971234658.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>69</Ilosc_produktow>
+    <Ilosc_produktow>68</Ilosc_produktow>
   </row>
   <row>
     <index>14875</index>
@@ -119150,7 +119150,7 @@
     <Kod_producenta>8809971235549</Kod_producenta>
     <Kod_ean>8809971235549.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>24</Ilosc_produktow>
+    <Ilosc_produktow>23</Ilosc_produktow>
   </row>
   <row>
     <index>14894</index>
@@ -119654,7 +119654,7 @@
     <Kod_producenta>5907769372421</Kod_producenta>
     <Kod_ean>5907769372421.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>395</Ilosc_produktow>
+    <Ilosc_produktow>394</Ilosc_produktow>
   </row>
   <row>
     <index>14957</index>
@@ -119702,7 +119702,7 @@
     <Kod_producenta>5907769372360</Kod_producenta>
     <Kod_ean>5907769372360.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>268</Ilosc_produktow>
+    <Ilosc_produktow>267</Ilosc_produktow>
   </row>
   <row>
     <index>14963</index>
@@ -119718,7 +119718,7 @@
     <Kod_producenta>5907769372346</Kod_producenta>
     <Kod_ean>5907769372346.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>394</Ilosc_produktow>
+    <Ilosc_produktow>392</Ilosc_produktow>
   </row>
   <row>
     <index>14965</index>
@@ -119758,7 +119758,7 @@
     <Kod_producenta>5907769372292</Kod_producenta>
     <Kod_ean>5907769372292.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>268</Ilosc_produktow>
+    <Ilosc_produktow>267</Ilosc_produktow>
   </row>
   <row>
     <index>14970</index>
@@ -119966,7 +119966,7 @@
     <Kod_producenta>6957303803712</Kod_producenta>
     <Kod_ean>6957303803712.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>1137</Ilosc_produktow>
+    <Ilosc_produktow>1136</Ilosc_produktow>
   </row>
   <row>
     <index>14996</index>
@@ -120006,7 +120006,7 @@
     <Kod_producenta>6941876239702</Kod_producenta>
     <Kod_ean>6941876239702.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>60</Ilosc_produktow>
+    <Ilosc_produktow>58</Ilosc_produktow>
   </row>
   <row>
     <index>15001</index>
@@ -120086,7 +120086,7 @@
     <Kod_producenta>8809971237956</Kod_producenta>
     <Kod_ean>8809971237956.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2</Ilosc_produktow>
+    <Ilosc_produktow>1</Ilosc_produktow>
   </row>
   <row>
     <index>15011</index>
@@ -120126,7 +120126,7 @@
     <Kod_producenta>8809971237925</Kod_producenta>
     <Kod_ean>8809971237925.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>7</Ilosc_produktow>
+    <Ilosc_produktow>5</Ilosc_produktow>
   </row>
   <row>
     <index>15016</index>
@@ -120182,7 +120182,7 @@
     <Kod_producenta>8809971239158</Kod_producenta>
     <Kod_ean>8809971239158.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>2</Ilosc_produktow>
+    <Ilosc_produktow>1</Ilosc_produktow>
   </row>
   <row>
     <index>15023</index>
@@ -120494,7 +120494,7 @@
     <Kod_producenta>8809971238861</Kod_producenta>
     <Kod_ean>8809971238861.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>69</Ilosc_produktow>
+    <Ilosc_produktow>68</Ilosc_produktow>
   </row>
   <row>
     <index>15062</index>
@@ -120822,7 +120822,7 @@
     <Kod_producenta>8800283301205</Kod_producenta>
     <Kod_ean>8800283301205.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>16</Ilosc_produktow>
+    <Ilosc_produktow>15</Ilosc_produktow>
   </row>
   <row>
     <index>15103</index>
@@ -120830,7 +120830,7 @@
     <Kod_producenta>8800283301212</Kod_producenta>
     <Kod_ean>8800283301212.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>33</Ilosc_produktow>
+    <Ilosc_produktow>32</Ilosc_produktow>
   </row>
   <row>
     <index>15104</index>
@@ -121142,7 +121142,7 @@
     <Kod_producenta>8596311066658</Kod_producenta>
     <Kod_ean>8596311066658.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>31</Ilosc_produktow>
+    <Ilosc_produktow>30</Ilosc_produktow>
   </row>
   <row>
     <index>15143</index>
@@ -121902,7 +121902,7 @@
     <Kod_producenta>5907769369155</Kod_producenta>
     <Kod_ean>5907769369155.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>538</Ilosc_produktow>
+    <Ilosc_produktow>528</Ilosc_produktow>
   </row>
   <row>
     <index>15238</index>
@@ -121974,7 +121974,7 @@
     <Kod_producenta>5907769369278</Kod_producenta>
     <Kod_ean>5907769369278.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>58</Ilosc_produktow>
+    <Ilosc_produktow>57</Ilosc_produktow>
   </row>
   <row>
     <index>15247</index>
@@ -123494,7 +123494,7 @@
     <Kod_producenta>8809971221689</Kod_producenta>
     <Kod_ean>8809971221689.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>93</Ilosc_produktow>
+    <Ilosc_produktow>92</Ilosc_produktow>
   </row>
   <row>
     <index>15437</index>
@@ -123558,7 +123558,7 @@
     <Kod_producenta>8809971223355</Kod_producenta>
     <Kod_ean>8809971223355.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>8</Ilosc_produktow>
+    <Ilosc_produktow>7</Ilosc_produktow>
   </row>
   <row>
     <index>15445</index>
@@ -123598,7 +123598,7 @@
     <Kod_producenta>8809971223430</Kod_producenta>
     <Kod_ean>8809971223430.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>66</Ilosc_produktow>
+    <Ilosc_produktow>62</Ilosc_produktow>
   </row>
   <row>
     <index>15450</index>
@@ -123606,7 +123606,7 @@
     <Kod_producenta>8809971224116</Kod_producenta>
     <Kod_ean>8809971224116.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>22</Ilosc_produktow>
+    <Ilosc_produktow>21</Ilosc_produktow>
   </row>
   <row>
     <index>15451</index>
@@ -123990,7 +123990,7 @@
     <Kod_producenta>5907769364303</Kod_producenta>
     <Kod_ean>5907769364303.0</Kod_ean>
     <Termin_wysylki>24 godziny</Termin_wysylki>
-    <Ilosc_produktow>649</Ilosc_produktow>
+    <Ilosc_produktow>648</Ilosc_produktow>
   </row>
   <row>
     <index>15499</index>
