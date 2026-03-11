@@ -1,9 +1,14 @@
-name: CSV to XML Converter
+name: CSV to XML Converter [DISABLED]
+
+# POZNÁMKA:
+# Automatické spouštění je momentálně vypnuto.
+# Workflow lze spustit už jen ručně přes workflow_dispatch.
+# Původní cron byl: * * * * * (každou 1 minutu)
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '* * * * *'  # každý 1 minutu (s možným zpožděním na GitHubu)
+  # schedule:
+  #   - cron: '* * * * *'  # vypnuto
 
 jobs:
   convert:
